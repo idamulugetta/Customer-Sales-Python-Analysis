@@ -1,0 +1,851 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Segment,Region,State,Sales_Channel,Category,Product,Sales,Quantity,Discount,Cost,Profit,Month
+ORD-10186,2025-12-13,CUST-0099,Ethan Clark,Consumer,South,FL,Online,Furniture,Filing Cabinet,1426.75,6,0.25,1017.2,409.55,2025-12
+ORD-10519,2025-07-29,CUST-0105,Ava Wilson,Corporate,South,GA,Online,Furniture,Conference Table,1396.49,4,0.1,1154.03,242.46,2025-07
+ORD-10249,2025-06-08,CUST-0174,Chloe Lee,Home Office,East,PA,Online,Furniture,Bookcase,1073.02,4,0.2,782.18,290.84,2025-06
+ORD-10006,2025-09-11,CUST-0189,Noah Martinez,Consumer,South,SC,Partner,Office Supplies,Binder Set,37.29,1,0.1,25.09,12.2,2025-09
+ORD-10776,2025-01-24,CUST-0210,Carlos Thomas,Consumer,West,CO,Online,Office Supplies,Printer Paper,102.37,2,0.0,60.87,41.5,2025-01
+ORD-10363,2025-03-16,CUST-0050,Malik Lee,Consumer,South,SC,Online,Furniture,Standing Desk,2514.82,7,0.0,1714.4,800.42,2025-03
+ORD-10135,2025-04-05,CUST-0175,Ethan Thomas,Home Office,Central,IL,Retail,Office Supplies,Pens,123.24,3,0.15,80.44,42.8,2025-04
+ORD-10647,2025-10-18,CUST-0102,Marcus Taylor,Corporate,Central,MO,Partner,Furniture,Conference Table,965.8,3,0.0,694.33,271.47,2025-10
+ORD-10557,2025-10-14,CUST-0162,Malik Walker,Consumer,West,CO,Online,Furniture,Office Chair,219.68,1,0.0,154.96,64.72,2025-10
+ORD-10633,2025-12-26,CUST-0096,Emma Davis,Corporate,East,PA,Retail,Technology,Wireless Mouse,503.45,3,0.1,346.54,156.91,2025-12
+ORD-10136,2025-03-15,CUST-0067,Malik Moore,Consumer,Central,OH,Online,Furniture,Conference Table,1568.25,6,0.15,1204.11,364.14,2025-03
+ORD-10456,2025-05-13,CUST-0123,Ethan Clark,Consumer,South,NC,Online,Office Supplies,Binder Set,209.28,5,0.0,124.15,85.13,2025-05
+ORD-10159,2025-08-05,CUST-0112,Maya Johnson,Corporate,East,PA,Retail,Office Supplies,Labels,128.12,3,0.0,84.43,43.69,2025-08
+ORD-10147,2025-02-28,CUST-0008,Nia Lee,Home Office,Central,OH,Online,Office Supplies,Desk Organizer,168.5,4,0.0,103.25,65.25,2025-02
+ORD-10037,2025-07-13,CUST-0189,Noah Martinez,Corporate,Central,OH,Retail,Furniture,Conference Table,463.84,2,0.05,310.54,153.3,2025-07
+ORD-10339,2025-06-20,CUST-0045,Noah Moore,Consumer,Central,IL,Retail,Technology,Headset,1082.09,5,0.1,760.63,321.46,2025-06
+ORD-10332,2025-04-04,CUST-0082,Noah Johnson,Consumer,East,VA,Online,Office Supplies,Pens,326.58,7,0.0,180.81,145.77,2025-04
+ORD-10779,2025-09-03,CUST-0060,Ava Davis,Corporate,West,OR,Retail,Technology,Headset,1354.51,6,0.2,793.23,561.28,2025-09
+ORD-10303,2025-04-05,CUST-0003,Andre Thomas,Consumer,South,TN,Retail,Technology,Headset,1453.54,5,0.05,906.06,547.48,2025-04
+ORD-10658,2025-07-12,CUST-0140,Zoe Wilson,Consumer,East,VA,Online,Technology,Headset,1498.64,6,0.0,1018.3,480.34,2025-07
+ORD-10285,2025-12-03,CUST-0098,Diego Walker,Home Office,West,AZ,Online,Furniture,Conference Table,1687.82,7,0.15,1180.29,507.53,2025-12
+ORD-10736,2025-02-05,CUST-0148,Chloe Taylor,Home Office,East,NJ,Retail,Office Supplies,Printer Paper,212.09,5,0.1,122.63,89.46,2025-02
+ORD-10129,2025-05-17,CUST-0127,Sophia Lee,Consumer,South,GA,Retail,Technology,Webcam,325.27,2,0.0,229.41,95.86,2025-05
+ORD-10149,2025-10-03,CUST-0181,Chloe Garcia,Corporate,East,NY,Retail,Office Supplies,Desk Organizer,231.64,7,0.3,144.77,86.87,2025-10
+ORD-10002,2025-05-11,CUST-0171,Emma Taylor,Consumer,Central,TX,Retail,Furniture,Office Chair,774.87,3,0.0,553.6,221.27,2025-05
+ORD-10329,2025-03-25,CUST-0032,Diego Clark,Consumer,East,NJ,Partner,Office Supplies,Binder Set,166.38,5,0.2,110.94,55.44,2025-03
+ORD-10786,2025-08-26,CUST-0130,Noah Clark,Consumer,East,NJ,Online,Furniture,Bookcase,2088.77,7,0.1,1593.3,495.47,2025-08
+ORD-10690,2025-10-03,CUST-0173,Diego Thomas,Corporate,East,MD,Online,Office Supplies,Labels,259.66,6,0.0,145.61,114.05,2025-10
+ORD-10236,2025-07-29,CUST-0159,Ava Smith,Corporate,West,CA,Online,Office Supplies,Labels,152.57,5,0.1,89.13,63.44,2025-07
+ORD-10818,2025-10-15,CUST-0024,Diego Wilson,Consumer,East,NY,Retail,Office Supplies,Desk Organizer,188.15,6,0.3,130.03,58.12,2025-10
+ORD-10747,2025-06-13,CUST-0118,Emma Clark,Consumer,West,AZ,Retail,Furniture,Conference Table,1621.1,6,0.1,1352.09,269.01,2025-06
+ORD-10274,2025-08-19,CUST-0211,Noah Taylor,Consumer,Central,TX,Retail,Technology,Laptop Dock,728.75,4,0.25,566.65,162.1,2025-08
+ORD-10568,2025-11-02,CUST-0055,Maya Thomas,Home Office,South,NC,Partner,Technology,Webcam,1452.36,7,0.2,939.66,512.7,2025-11
+ORD-10178,2025-10-14,CUST-0036,Ethan Lewis,Corporate,South,NC,Retail,Furniture,Bookcase,1785.06,6,0.0,1536.54,248.52,2025-10
+ORD-10057,2025-11-06,CUST-0121,Jordan Moore,Corporate,East,NJ,Online,Technology,Headset,1894.73,7,0.0,1063.31,831.42,2025-11
+ORD-10379,2025-06-14,CUST-0084,Sophia Brown,Consumer,South,NC,Online,Furniture,Standing Desk,1396.08,7,0.3,994.61,401.47,2025-06
+ORD-10380,2025-09-03,CUST-0058,Chloe Clark,Consumer,Central,OH,Retail,Furniture,Bookcase,2316.2,7,0.0,1918.49,397.71,2025-09
+ORD-10600,2025-01-26,CUST-0142,Nia Brown,Consumer,South,TN,Retail,Technology,Laptop Dock,846.18,4,0.2,475.44,370.74,2025-01
+ORD-10573,2025-08-19,CUST-0063,Marcus Taylor,Home Office,East,NY,Retail,Technology,Webcam,1279.24,5,0.0,865.19,414.05,2025-08
+ORD-10552,2025-09-16,CUST-0087,Marcus Walker,Consumer,South,TN,Online,Office Supplies,Binder Set,143.28,4,0.2,85.33,57.95,2025-09
+ORD-10791,2025-04-24,CUST-0022,Noah Lewis,Consumer,South,NC,Partner,Technology,Headset,321.43,2,0.15,205.02,116.41,2025-04
+ORD-10654,2025-06-02,CUST-0177,Marcus Clark,Consumer,East,MD,Retail,Furniture,Bookcase,507.6,2,0.0,334.6,173.0,2025-06
+ORD-10453,2025-04-05,CUST-0110,Maya Garcia,Corporate,East,NJ,Online,Technology,Monitor,512.07,2,0.1,324.49,187.58,2025-04
+ORD-10450,2025-09-02,CUST-0064,Sophia Taylor,Consumer,Central,MO,Retail,Office Supplies,Pens,218.35,5,0.05,132.69,85.66,2025-09
+ORD-10517,2025-04-11,CUST-0194,Maya Clark,Corporate,South,FL,Partner,Office Supplies,Binder Set,243.33,6,0.0,146.04,97.29,2025-04
+ORD-10240,2025-03-05,CUST-0139,Diego Walker,Home Office,East,MD,Online,Technology,Laptop Dock,1212.17,5,0.0,837.44,374.73,2025-03
+ORD-10673,2025-12-20,CUST-0140,Zoe Wilson,Consumer,West,CO,Online,Technology,Webcam,737.09,4,0.15,460.45,276.64,2025-12
+ORD-10660,2025-02-17,CUST-0064,Sophia Taylor,Home Office,South,NC,Online,Technology,Headset,1563.47,7,0.15,1194.13,369.34,2025-02
+ORD-10043,2025-04-18,CUST-0155,Chloe Thomas,Corporate,East,MD,Online,Technology,Wireless Mouse,1636.58,7,0.05,1172.71,463.87,2025-04
+ORD-10167,2025-02-16,CUST-0071,Lena Lee,Consumer,Central,TX,Online,Technology,Monitor,1619.69,6,0.0,1205.4,414.29,2025-02
+ORD-10090,2025-03-20,CUST-0184,Nia Martinez,Consumer,South,GA,Partner,Furniture,Office Chair,501.57,2,0.1,368.03,133.54,2025-03
+ORD-10083,2025-07-10,CUST-0036,Ethan Lewis,Consumer,West,CO,Online,Office Supplies,Printer Paper,188.12,5,0.2,136.13,51.99,2025-07
+ORD-10418,2025-08-07,CUST-0027,Malik Thomas,Corporate,South,NC,Online,Office Supplies,Binder Set,112.11,3,0.15,69.1,43.01,2025-08
+ORD-10674,2025-08-13,CUST-0021,Noah Clark,Consumer,East,MD,Online,Office Supplies,Binder Set,159.77,4,0.05,109.54,50.23,2025-08
+ORD-10780,2025-11-21,CUST-0188,Maya Wilson,Consumer,East,NJ,Online,Furniture,Conference Table,1862.57,6,0.0,1590.08,272.49,2025-11
+ORD-10541,2025-07-14,CUST-0156,Lena Clark,Home Office,East,NJ,Online,Technology,Wireless Mouse,1352.24,6,0.2,941.23,411.01,2025-07
+ORD-10125,2025-04-23,CUST-0189,Noah Martinez,Home Office,South,SC,Online,Furniture,Conference Table,651.9,3,0.3,439.69,212.21,2025-04
+ORD-10344,2025-05-13,CUST-0114,Andre Lewis,Home Office,West,WA,Partner,Office Supplies,Desk Organizer,170.03,4,0.0,109.71,60.32,2025-05
+ORD-10405,2025-06-15,CUST-0110,Maya Garcia,Corporate,Central,MI,Online,Furniture,Filing Cabinet,1665.12,6,0.1,1233.16,431.96,2025-06
+ORD-10399,2025-11-02,CUST-0062,Emma Johnson,Consumer,Central,MI,Retail,Technology,Headset,642.22,2,0.15,442.24,199.98,2025-11
+ORD-10060,2025-11-25,CUST-0151,Marcus Walker,Consumer,Central,MI,Retail,Technology,Webcam,559.82,2,0.1,371.44,188.38,2025-11
+ORD-10337,2025-08-12,CUST-0212,Maya Lewis,Consumer,West,CA,Online,Office Supplies,Labels,190.97,6,0.3,136.42,54.55,2025-08
+ORD-10520,2025-01-04,CUST-0131,Sophia Moore,Corporate,South,FL,Online,Office Supplies,Binder Set,58.76,1,0.1,34.57,24.19,2025-01
+ORD-10386,2025-04-22,CUST-0028,Lena Clark,Corporate,West,CO,Online,Furniture,Office Chair,1322.51,5,0.2,1052.89,269.62,2025-04
+ORD-10320,2025-04-29,CUST-0170,Zoe Johnson,Consumer,Central,MO,Retail,Technology,Monitor,640.61,4,0.2,420.5,220.11,2025-04
+ORD-10759,2025-12-18,CUST-0029,Lena Lee,Corporate,South,NC,Online,Technology,Monitor,678.02,3,0.1,420.62,257.4,2025-12
+ORD-10401,2025-05-31,CUST-0220,Ethan Moore,Home Office,East,NJ,Online,Technology,Headset,401.13,2,0.0,299.95,101.18,2025-05
+ORD-10740,2025-10-04,CUST-0198,Chloe Lewis,Consumer,Central,MI,Partner,Office Supplies,Labels,353.98,7,0.0,203.07,150.91,2025-10
+ORD-10301,2025-01-12,CUST-0081,Ava Smith,Home Office,South,TN,Online,Office Supplies,Desk Organizer,265.76,6,0.1,205.27,60.49,2025-01
+ORD-10442,2025-08-30,CUST-0067,Malik Moore,Consumer,Central,MI,Retail,Technology,Headset,787.24,2,0.1,494.79,292.45,2025-08
+ORD-10511,2025-12-10,CUST-0219,Nia Johnson,Consumer,West,AZ,Retail,Technology,Wireless Mouse,1408.34,6,0.1,967.48,440.86,2025-12
+ORD-10205,2025-07-04,CUST-0101,Noah Taylor,Consumer,West,CO,Retail,Furniture,Filing Cabinet,1194.37,5,0.2,1011.65,182.72,2025-07
+ORD-10255,2025-08-19,CUST-0146,Zoe Lewis,Corporate,West,CA,Retail,Technology,Monitor,189.7,2,0.3,110.06,79.64,2025-08
+ORD-10526,2025-12-01,CUST-0069,Zoe Taylor,Home Office,West,AZ,Partner,Technology,Wireless Mouse,1750.74,7,0.0,1125.12,625.62,2025-12
+ORD-10371,2025-08-14,CUST-0074,Lena Martinez,Consumer,South,NC,Retail,Technology,Wireless Mouse,1494.46,6,0.1,851.77,642.69,2025-08
+ORD-10627,2025-10-28,CUST-0075,Maya Clark,Home Office,West,AZ,Online,Office Supplies,Pens,39.8,1,0.3,23.46,16.34,2025-10
+ORD-10131,2025-02-05,CUST-0125,Sophia Johnson,Consumer,South,FL,Partner,Office Supplies,Desk Organizer,206.47,5,0.0,128.9,77.57,2025-02
+ORD-10751,2025-08-15,CUST-0212,Maya Lewis,Corporate,South,TN,Online,Technology,Laptop Dock,446.24,3,0.25,318.56,127.68,2025-08
+ORD-10118,2025-12-24,CUST-0031,Maya Martinez,Corporate,Central,OH,Retail,Technology,Headset,1720.12,7,0.1,1311.24,408.88,2025-12
+ORD-10644,2025-03-16,CUST-0106,Malik Garcia,Consumer,East,PA,Partner,Technology,Wireless Mouse,263.63,1,0.25,157.96,105.67,2025-03
+ORD-10109,2025-05-28,CUST-0104,Emma Clark,Corporate,East,NJ,Retail,Office Supplies,Printer Paper,105.48,3,0.25,75.72,29.76,2025-05
+ORD-10273,2025-05-16,CUST-0034,Lena Wilson,Consumer,South,SC,Online,Furniture,Conference Table,740.57,3,0.2,552.08,188.49,2025-05
+ORD-10358,2025-06-20,CUST-0197,Andre Wilson,Consumer,West,CO,Online,Technology,Monitor,1354.03,6,0.1,877.07,476.96,2025-06
+ORD-10266,2025-10-18,CUST-0128,Marcus Thomas,Home Office,South,SC,Retail,Furniture,Conference Table,706.81,3,0.0,477.44,229.37,2025-10
+ORD-10272,2025-02-05,CUST-0006,Marcus Wilson,Consumer,South,NC,Online,Furniture,Conference Table,1574.68,6,0.15,1220.89,353.79,2025-02
+ORD-10403,2025-05-18,CUST-0071,Lena Lee,Corporate,South,FL,Online,Office Supplies,Desk Organizer,143.28,3,0.05,82.4,60.88,2025-05
+ORD-10515,2025-08-12,CUST-0212,Maya Lewis,Consumer,West,WA,Online,Office Supplies,Binder Set,261.53,6,0.1,165.09,96.44,2025-08
+ORD-10017,2025-08-13,CUST-0113,Zoe Moore,Consumer,South,NC,Partner,Office Supplies,Desk Organizer,44.96,1,0.05,24.92,20.04,2025-08
+ORD-10032,2025-03-16,CUST-0050,Malik Lee,Corporate,South,NC,Retail,Technology,Wireless Mouse,330.91,2,0.1,204.86,126.05,2025-03
+ORD-10098,2025-10-13,CUST-0151,Marcus Walker,Corporate,South,TN,Retail,Office Supplies,Printer Paper,198.59,6,0.25,145.34,53.25,2025-10
+ORD-10569,2025-12-21,CUST-0142,Nia Brown,Corporate,South,FL,Retail,Office Supplies,Labels,308.66,7,0.0,209.42,99.24,2025-12
+ORD-10476,2025-01-07,CUST-0173,Diego Thomas,Consumer,Central,IL,Retail,Office Supplies,Desk Organizer,129.9,4,0.1,92.8,37.1,2025-01
+ORD-10311,2025-08-18,CUST-0147,Marcus Smith,Consumer,West,CO,Online,Technology,Wireless Mouse,796.09,2,0.0,495.68,300.41,2025-08
+ORD-10124,2025-05-31,CUST-0104,Emma Clark,Corporate,Central,IL,Partner,Technology,Wireless Mouse,132.38,1,0.05,79.44,52.94,2025-05
+ORD-10321,2025-06-18,CUST-0071,Lena Lee,Home Office,East,PA,Retail,Office Supplies,Desk Organizer,200.19,5,0.0,147.62,52.57,2025-06
+ORD-10465,2025-08-13,CUST-0002,Ethan Johnson,Consumer,East,VA,Retail,Technology,Wireless Mouse,147.64,1,0.2,103.46,44.18,2025-08
+ORD-10839,2025-05-02,CUST-0004,Malik Taylor,Consumer,East,MD,Online,Furniture,Bookcase,1946.84,7,0.15,1652.24,294.6,2025-05
+ORD-10416,2025-07-20,CUST-0150,Chloe Lewis,Consumer,South,FL,Retail,Furniture,Office Chair,1075.57,4,0.2,895.14,180.43,2025-07
+ORD-10137,2025-08-17,CUST-0133,Emma Thomas,Consumer,West,OR,Retail,Technology,Wireless Mouse,409.4,2,0.3,245.45,163.95,2025-08
+ORD-10667,2025-08-07,CUST-0111,Sophia Clark,Consumer,South,GA,Online,Furniture,Office Chair,840.77,3,0.1,673.83,166.94,2025-08
+ORD-10243,2025-08-13,CUST-0021,Noah Clark,Consumer,Central,MI,Online,Office Supplies,Printer Paper,45.5,1,0.0,33.44,12.06,2025-08
+ORD-10709,2025-12-18,CUST-0105,Ava Wilson,Corporate,Central,OH,Retail,Furniture,Bookcase,849.01,3,0.15,575.76,273.25,2025-12
+ORD-10807,2025-12-18,CUST-0120,Sophia Brown,Corporate,South,GA,Partner,Technology,Wireless Mouse,1798.8,7,0.0,1126.74,672.06,2025-12
+ORD-10333,2025-11-06,CUST-0069,Zoe Taylor,Consumer,South,GA,Online,Office Supplies,Labels,139.59,4,0.1,84.36,55.23,2025-11
+ORD-10128,2025-04-29,CUST-0169,Andre Davis,Consumer,West,AZ,Online,Furniture,Bookcase,1727.54,5,0.05,1243.55,483.99,2025-04
+ORD-10078,2025-01-12,CUST-0050,Malik Lee,Home Office,Central,TX,Retail,Furniture,Filing Cabinet,444.24,2,0.2,313.55,130.69,2025-01
+ORD-10216,2025-10-24,CUST-0060,Ava Davis,Home Office,West,CO,Retail,Technology,Webcam,1204.14,4,0.05,877.12,327.02,2025-10
+ORD-10827,2025-12-08,CUST-0150,Chloe Lewis,Consumer,East,NJ,Retail,Technology,Laptop Dock,1678.51,7,0.1,1087.42,591.09,2025-12
+ORD-10679,2025-08-19,CUST-0116,Sophia Brown,Consumer,Central,MO,Online,Technology,Laptop Dock,139.74,1,0.05,80.9,58.84,2025-08
+ORD-10609,2025-06-28,CUST-0213,Ava Martinez,Consumer,South,GA,Online,Technology,Monitor,1297.76,6,0.1,816.35,481.41,2025-06
+ORD-10210,2025-12-11,CUST-0172,Malik Martinez,Corporate,East,MD,Retail,Technology,Headset,496.09,2,0.15,370.35,125.74,2025-12
+ORD-10803,2025-06-28,CUST-0114,Andre Lewis,Consumer,West,AZ,Online,Technology,Headset,475.51,2,0.2,347.38,128.13,2025-06
+ORD-10076,2025-12-30,CUST-0105,Ava Wilson,Consumer,West,CA,Online,Furniture,Standing Desk,1038.04,3,0.2,842.74,195.3,2025-12
+ORD-10825,2025-01-02,CUST-0138,Zoe Wilson,Consumer,East,VA,Retail,Technology,Webcam,1712.31,7,0.0,1014.21,698.1,2025-01
+ORD-10840,2025-10-02,CUST-0201,Nia Smith,Consumer,East,MD,Online,Technology,Monitor,1724.74,7,0.0,964.93,759.81,2025-10
+ORD-10225,2025-03-30,CUST-0159,Ava Smith,Consumer,Central,TX,Retail,Office Supplies,Binder Set,205.04,6,0.2,120.66,84.38,2025-03
+ORD-10392,2025-10-23,CUST-0040,Emma Clark,Corporate,Central,MO,Online,Office Supplies,Labels,148.07,5,0.3,100.32,47.75,2025-10
+ORD-10474,2025-02-24,CUST-0103,Noah Garcia,Corporate,South,NC,Retail,Office Supplies,Binder Set,216.64,6,0.2,131.26,85.38,2025-02
+ORD-10270,2025-07-09,CUST-0131,Sophia Moore,Home Office,East,NY,Online,Technology,Wireless Mouse,1634.58,7,0.1,1080.43,554.15,2025-07
+ORD-10722,2025-10-01,CUST-0205,Maya Wilson,Corporate,Central,OH,Partner,Technology,Webcam,197.2,1,0.2,109.35,87.85,2025-10
+ORD-10516,2025-10-16,CUST-0024,Diego Wilson,Consumer,South,GA,Online,Furniture,Standing Desk,895.55,3,0.1,708.83,186.72,2025-10
+ORD-10199,2025-04-26,CUST-0075,Maya Clark,Consumer,Central,OH,Online,Technology,Wireless Mouse,143.15,1,0.1,103.76,39.39,2025-04
+ORD-10214,2025-02-17,CUST-0099,Ethan Clark,Consumer,South,TN,Online,Furniture,Bookcase,742.57,4,0.2,564.39,178.18,2025-02
+ORD-10624,2025-03-25,CUST-0092,Carlos Lewis,Corporate,South,FL,Retail,Office Supplies,Desk Organizer,216.69,5,0.1,133.54,83.15,2025-03
+ORD-10637,2025-09-25,CUST-0052,Nia Walker,Corporate,Central,OH,Partner,Technology,Webcam,1253.79,7,0.3,869.13,384.66,2025-09
+ORD-10068,2025-10-14,CUST-0082,Noah Johnson,Corporate,South,SC,Online,Technology,Laptop Dock,1245.06,4,0.0,880.45,364.61,2025-10
+ORD-10116,2025-05-22,CUST-0126,Zoe Johnson,Consumer,South,TN,Retail,Office Supplies,Binder Set,214.16,5,0.0,137.36,76.8,2025-05
+ORD-10472,2025-11-17,CUST-0177,Marcus Clark,Home Office,West,CO,Retail,Furniture,Conference Table,1956.06,6,0.0,1377.92,578.14,2025-11
+ORD-10050,2025-05-13,CUST-0172,Malik Martinez,Consumer,East,VA,Online,Furniture,Bookcase,373.13,1,0.1,283.86,89.27,2025-05
+ORD-10598,2025-06-03,CUST-0172,Malik Martinez,Consumer,South,TN,Retail,Office Supplies,Desk Organizer,178.77,4,0.0,122.23,56.54,2025-06
+ORD-10174,2025-05-21,CUST-0159,Ava Smith,Consumer,South,SC,Online,Technology,Headset,32.54,1,0.15,18.7,13.84,2025-05
+ORD-10023,2025-05-18,CUST-0041,Zoe Wilson,Home Office,East,VA,Retail,Furniture,Conference Table,68.02,1,0.0,50.65,17.37,2025-05
+ORD-10353,2025-06-15,CUST-0066,Jordan Wilson,Consumer,West,CA,Retail,Furniture,Office Chair,493.96,2,0.0,329.45,164.51,2025-06
+ORD-10643,2025-12-17,CUST-0188,Maya Wilson,Consumer,Central,MI,Online,Technology,Webcam,1113.7,4,0.1,725.11,388.59,2025-12
+ORD-10305,2025-10-10,CUST-0120,Sophia Brown,Consumer,West,WA,Online,Technology,Headset,1610.06,7,0.1,936.2,673.86,2025-10
+ORD-10279,2025-10-15,CUST-0015,Malik Taylor,Consumer,West,CO,Online,Technology,Laptop Dock,1116.46,6,0.25,850.8,265.66,2025-10
+ORD-10156,2025-10-10,CUST-0146,Zoe Lewis,Consumer,South,TN,Retail,Office Supplies,Binder Set,169.52,4,0.2,101.85,67.67,2025-10
+ORD-10543,2025-06-06,CUST-0043,Noah Wilson,Consumer,South,TN,Partner,Office Supplies,Binder Set,233.97,6,0.15,152.09,81.88,2025-06
+ORD-10666,2025-04-04,CUST-0153,Andre Smith,Consumer,Central,OH,Retail,Furniture,Filing Cabinet,848.95,4,0.2,605.87,243.08,2025-04
+ORD-10338,2025-02-11,CUST-0070,Maya Lee,Consumer,East,VA,Retail,Furniture,Filing Cabinet,296.62,1,0.0,211.54,85.08,2025-02
+ORD-10455,2025-04-05,CUST-0132,Nia Smith,Corporate,Central,IL,Online,Office Supplies,Pens,212.68,5,0.0,147.87,64.81,2025-04
+ORD-10336,2025-07-04,CUST-0178,Noah Thomas,Home Office,South,SC,Partner,Office Supplies,Pens,99.86,2,0.0,67.61,32.25,2025-07
+ORD-10254,2025-09-08,CUST-0073,Chloe Davis,Consumer,East,NJ,Online,Technology,Webcam,754.21,5,0.25,423.41,330.8,2025-09
+ORD-10611,2025-03-08,CUST-0184,Nia Martinez,Corporate,South,NC,Retail,Office Supplies,Desk Organizer,243.8,7,0.2,189.87,53.93,2025-03
+ORD-10207,2025-06-24,CUST-0169,Andre Davis,Consumer,East,NJ,Retail,Furniture,Conference Table,871.51,3,0.2,661.02,210.49,2025-06
+ORD-10591,2025-08-23,CUST-0177,Marcus Clark,Corporate,East,NY,Online,Technology,Wireless Mouse,1534.59,6,0.0,1191.44,343.15,2025-08
+ORD-10481,2025-11-06,CUST-0064,Sophia Taylor,Corporate,West,WA,Retail,Furniture,Filing Cabinet,1377.84,6,0.2,970.28,407.56,2025-11
+ORD-10648,2025-10-19,CUST-0118,Emma Clark,Home Office,West,AZ,Retail,Office Supplies,Binder Set,259.92,6,0.05,153.43,106.49,2025-10
+ORD-10346,2025-03-03,CUST-0057,Sophia Brown,Consumer,Central,IL,Online,Office Supplies,Desk Organizer,184.82,5,0.15,140.29,44.53,2025-03
+ORD-10832,2025-12-20,CUST-0053,Lena Brown,Consumer,Central,TX,Online,Office Supplies,Binder Set,266.22,6,0.0,170.67,95.55,2025-12
+ORD-10639,2025-03-10,CUST-0175,Ethan Thomas,Consumer,East,NY,Partner,Office Supplies,Pens,54.52,2,0.2,35.4,19.12,2025-03
+ORD-10847,2025-10-01,CUST-0035,Emma Moore,Consumer,South,SC,Online,Technology,Monitor,1105.06,4,0.1,802.43,302.63,2025-10
+ORD-10720,2025-11-09,CUST-0132,Nia Smith,Consumer,East,VA,Retail,Office Supplies,Binder Set,294.87,6,0.0,193.32,101.55,2025-11
+ORD-10737,2025-11-01,CUST-0161,Ethan Brown,Consumer,West,OR,Online,Technology,Webcam,174.6,1,0.05,100.14,74.46,2025-11
+ORD-10422,2025-07-20,CUST-0153,Andre Smith,Consumer,East,NJ,Partner,Furniture,Office Chair,484.41,2,0.25,378.61,105.8,2025-07
+ORD-10729,2025-09-01,CUST-0108,Marcus Moore,Corporate,East,NJ,Online,Technology,Monitor,1291.68,5,0.15,996.43,295.25,2025-09
+ORD-10415,2025-08-31,CUST-0004,Malik Taylor,Consumer,South,FL,Online,Technology,Headset,278.93,1,0.05,210.43,68.5,2025-08
+ORD-10504,2025-12-13,CUST-0191,Diego Johnson,Consumer,East,PA,Retail,Technology,Monitor,876.92,4,0.25,520.56,356.36,2025-12
+ORD-10593,2025-03-28,CUST-0053,Lena Brown,Home Office,South,FL,Partner,Technology,Webcam,834.8,4,0.15,552.83,281.97,2025-03
+ORD-10833,2025-03-26,CUST-0100,Zoe Moore,Corporate,South,SC,Online,Furniture,Filing Cabinet,492.33,1,0.0,324.55,167.78,2025-03
+ORD-10789,2025-05-31,CUST-0120,Sophia Brown,Corporate,East,NY,Online,Technology,Headset,1113.9,5,0.15,824.07,289.83,2025-05
+ORD-10044,2025-12-05,CUST-0078,Ethan Johnson,Corporate,South,FL,Partner,Technology,Laptop Dock,1370.34,7,0.15,968.45,401.89,2025-12
+ORD-10323,2025-05-10,CUST-0136,Chloe Martinez,Consumer,East,NY,Retail,Technology,Headset,1124.92,6,0.3,724.42,400.5,2025-05
+ORD-10466,2025-08-30,CUST-0213,Ava Martinez,Consumer,West,OR,Online,Furniture,Bookcase,1663.12,7,0.25,1345.4,317.72,2025-08
+ORD-10435,2025-12-21,CUST-0096,Emma Davis,Consumer,Central,MI,Retail,Technology,Headset,538.8,3,0.25,410.4,128.4,2025-12
+ORD-10514,2025-06-05,CUST-0180,Maya Walker,Corporate,South,SC,Online,Furniture,Standing Desk,133.59,1,0.2,101.31,32.28,2025-06
+ORD-10277,2025-08-09,CUST-0103,Noah Garcia,Home Office,West,CA,Online,Technology,Wireless Mouse,619.42,3,0.1,412.15,207.27,2025-08
+ORD-10464,2025-04-01,CUST-0093,Marcus Davis,Corporate,South,FL,Retail,Furniture,Filing Cabinet,1397.73,5,0.15,1160.27,237.46,2025-04
+ORD-10390,2025-12-15,CUST-0034,Lena Wilson,Home Office,West,WA,Retail,Technology,Webcam,1060.07,5,0.25,725.54,334.53,2025-12
+ORD-10528,2025-06-01,CUST-0032,Diego Clark,Consumer,South,GA,Online,Office Supplies,Binder Set,127.04,3,0.05,85.41,41.63,2025-06
+ORD-10041,2025-10-12,CUST-0037,Noah Thomas,Consumer,East,PA,Retail,Office Supplies,Desk Organizer,22.18,1,0.2,15.94,6.24,2025-10
+ORD-10670,2025-08-28,CUST-0030,Diego Johnson,Consumer,Central,OH,Retail,Technology,Monitor,1001.86,4,0.05,601.1,400.76,2025-08
+ORD-10802,2025-02-26,CUST-0067,Malik Moore,Consumer,West,AZ,Online,Technology,Laptop Dock,1015.49,4,0.15,584.75,430.74,2025-02
+ORD-10764,2025-03-14,CUST-0206,Ava Smith,Consumer,East,NY,Partner,Office Supplies,Labels,13.63,1,0.2,8.13,5.5,2025-03
+ORD-10120,2025-06-19,CUST-0026,Carlos Wilson,Home Office,East,NY,Retail,Furniture,Bookcase,590.1,2,0.2,472.02,118.08,2025-06
+ORD-10794,2025-04-11,CUST-0182,Emma Taylor,Home Office,West,AZ,Online,Office Supplies,Desk Organizer,139.89,3,0.0,100.1,39.79,2025-04
+ORD-10268,2025-02-21,CUST-0077,Noah Garcia,Consumer,West,CA,Retail,Technology,Headset,768.2,4,0.2,516.12,252.08,2025-02
+ORD-10646,2025-11-29,CUST-0073,Chloe Davis,Consumer,East,MD,Partner,Furniture,Standing Desk,470.07,2,0.2,411.13,58.94,2025-11
+ORD-10785,2025-10-09,CUST-0106,Malik Garcia,Consumer,East,NY,Partner,Office Supplies,Labels,197.71,4,0.0,150.44,47.27,2025-10
+ORD-10345,2025-01-12,CUST-0200,Chloe Smith,Home Office,West,CA,Online,Furniture,Office Chair,1699.22,6,0.1,1412.0,287.22,2025-01
+ORD-10763,2025-05-27,CUST-0209,Carlos Wilson,Consumer,East,NJ,Online,Technology,Monitor,626.14,3,0.0,417.74,208.4,2025-05
+ORD-10351,2025-02-28,CUST-0118,Emma Clark,Corporate,South,GA,Online,Office Supplies,Desk Organizer,301.65,7,0.1,188.96,112.69,2025-02
+ORD-10413,2025-02-03,CUST-0062,Emma Johnson,Consumer,South,SC,Retail,Technology,Laptop Dock,1749.07,6,0.0,1050.84,698.23,2025-02
+ORD-10062,2025-11-19,CUST-0164,Andre Brown,Corporate,Central,IL,Online,Technology,Webcam,531.73,3,0.1,326.07,205.66,2025-11
+ORD-10251,2025-02-18,CUST-0040,Emma Clark,Home Office,South,GA,Partner,Technology,Laptop Dock,450.2,3,0.3,341.76,108.44,2025-02
+ORD-10727,2025-08-02,CUST-0159,Ava Smith,Home Office,South,FL,Online,Office Supplies,Pens,277.71,6,0.0,181.56,96.15,2025-08
+ORD-10155,2025-02-10,CUST-0096,Emma Davis,Consumer,East,NY,Online,Technology,Wireless Mouse,1637.65,7,0.05,966.94,670.71,2025-02
+ORD-10622,2025-08-16,CUST-0106,Malik Garcia,Corporate,East,VA,Retail,Technology,Webcam,1523.36,6,0.0,995.7,527.66,2025-08
+ORD-10309,2025-08-17,CUST-0070,Maya Lee,Consumer,South,TN,Partner,Technology,Webcam,488.36,2,0.0,299.4,188.96,2025-08
+ORD-10256,2025-02-10,CUST-0032,Diego Clark,Consumer,South,NC,Online,Technology,Headset,380.84,2,0.05,265.38,115.46,2025-02
+ORD-10175,2025-12-31,CUST-0154,Maya Johnson,Consumer,South,FL,Online,Office Supplies,Binder Set,64.66,2,0.3,44.1,20.56,2025-12
+ORD-10334,2025-03-04,CUST-0183,Andre Lee,Corporate,South,SC,Retail,Furniture,Standing Desk,1909.82,6,0.0,1461.28,448.54,2025-03
+ORD-10335,2025-08-20,CUST-0102,Marcus Taylor,Corporate,South,TN,Partner,Office Supplies,Binder Set,262.89,6,0.1,177.28,85.61,2025-08
+ORD-10821,2025-05-13,CUST-0006,Marcus Wilson,Home Office,East,NY,Online,Office Supplies,Desk Organizer,229.74,6,0.1,127.0,102.74,2025-05
+ORD-10195,2025-01-05,CUST-0212,Maya Lewis,Consumer,East,VA,Online,Furniture,Office Chair,1454.33,7,0.3,971.26,483.07,2025-01
+ORD-10615,2025-02-15,CUST-0151,Marcus Walker,Corporate,South,TN,Online,Technology,Webcam,647.23,2,0.0,479.22,168.01,2025-02
+ORD-10310,2025-05-31,CUST-0024,Diego Wilson,Consumer,Central,MI,Online,Office Supplies,Printer Paper,127.48,3,0.15,98.13,29.35,2025-05
+ORD-10793,2025-02-25,CUST-0159,Ava Smith,Consumer,East,MD,Retail,Office Supplies,Desk Organizer,39.29,1,0.0,26.83,12.46,2025-02
+ORD-10680,2025-07-20,CUST-0206,Ava Smith,Home Office,Central,MI,Online,Furniture,Filing Cabinet,960.96,4,0.2,716.37,244.59,2025-07
+ORD-10158,2025-05-01,CUST-0123,Ethan Clark,Corporate,South,TN,Online,Technology,Headset,261.02,1,0.05,143.62,117.4,2025-05
+ORD-10616,2025-10-18,CUST-0141,Sophia Martinez,Consumer,South,SC,Retail,Furniture,Filing Cabinet,840.33,3,0.2,712.78,127.55,2025-10
+ORD-10168,2025-12-17,CUST-0037,Noah Thomas,Corporate,South,TN,Online,Furniture,Filing Cabinet,523.34,1,0.0,436.78,86.56,2025-12
+ORD-10172,2025-05-09,CUST-0020,Carlos Clark,Home Office,East,VA,Online,Office Supplies,Printer Paper,256.28,6,0.0,192.24,64.04,2025-05
+ORD-10053,2025-06-01,CUST-0081,Ava Smith,Consumer,East,VA,Retail,Office Supplies,Labels,14.25,1,0.05,10.02,4.23,2025-06
+ORD-10523,2025-03-30,CUST-0043,Noah Wilson,Consumer,Central,OH,Online,Office Supplies,Pens,211.02,7,0.25,153.63,57.39,2025-03
+ORD-10440,2025-03-06,CUST-0088,Ethan Garcia,Consumer,East,MD,Online,Technology,Headset,490.75,1,0.0,369.22,121.53,2025-03
+ORD-10459,2025-04-08,CUST-0185,Noah Taylor,Corporate,East,PA,Retail,Furniture,Office Chair,777.56,4,0.25,611.86,165.7,2025-04
+ORD-10362,2025-02-10,CUST-0196,Jordan Garcia,Consumer,West,OR,Partner,Office Supplies,Labels,94.03,2,0.0,58.24,35.79,2025-02
+ORD-10685,2025-07-31,CUST-0038,Carlos Clark,Corporate,East,MD,Retail,Technology,Webcam,188.55,1,0.25,109.09,79.46,2025-07
+ORD-10641,2025-05-15,CUST-0148,Chloe Taylor,Corporate,South,NC,Online,Technology,Webcam,739.26,3,0.0,500.54,238.72,2025-05
+ORD-10669,2025-05-09,CUST-0203,Noah Smith,Consumer,West,WA,Retail,Furniture,Office Chair,897.6,4,0.3,681.28,216.32,2025-05
+ORD-10387,2025-02-20,CUST-0015,Malik Taylor,Corporate,East,PA,Online,Furniture,Filing Cabinet,1077.94,4,0.0,808.12,269.82,2025-02
+ORD-10042,2025-11-27,CUST-0167,Jordan Thomas,Consumer,South,FL,Online,Technology,Webcam,836.82,4,0.25,567.63,269.19,2025-11
+ORD-10497,2025-08-05,CUST-0027,Malik Thomas,Home Office,Central,TX,Online,Technology,Laptop Dock,918.15,5,0.2,697.29,220.86,2025-08
+ORD-10770,2025-02-05,CUST-0083,Carlos Martinez,Consumer,West,AZ,Retail,Furniture,Conference Table,1891.1,6,0.05,1578.93,312.17,2025-02
+ORD-10448,2025-05-02,CUST-0211,Noah Taylor,Consumer,West,WA,Partner,Office Supplies,Labels,211.56,5,0.05,147.0,64.56,2025-05
+ORD-10034,2025-11-30,CUST-0123,Ethan Clark,Consumer,South,TN,Partner,Technology,Wireless Mouse,985.91,4,0.0,609.95,375.96,2025-11
+ORD-10411,2025-09-29,CUST-0039,Lena Martinez,Corporate,Central,MI,Retail,Technology,Wireless Mouse,960.76,4,0.1,681.33,279.43,2025-09
+ORD-10022,2025-04-19,CUST-0082,Noah Johnson,Home Office,Central,IL,Online,Technology,Wireless Mouse,1710.92,6,0.0,1097.42,613.5,2025-04
+ORD-10590,2025-01-22,CUST-0186,Ava Garcia,Consumer,East,PA,Online,Furniture,Bookcase,1096.52,4,0.0,840.28,256.24,2025-01
+ORD-10744,2025-06-01,CUST-0060,Ava Davis,Corporate,East,NJ,Partner,Technology,Wireless Mouse,476.31,2,0.0,262.46,213.85,2025-06
+ORD-10812,2025-05-19,CUST-0194,Maya Clark,Corporate,Central,IL,Online,Technology,Wireless Mouse,321.23,2,0.1,219.79,101.44,2025-05
+ORD-10102,2025-03-28,CUST-0044,Noah Walker,Corporate,East,VA,Retail,Technology,Headset,261.43,1,0.3,190.03,71.4,2025-03
+ORD-10029,2025-02-16,CUST-0120,Sophia Brown,Corporate,Central,TX,Online,Technology,Headset,941.57,4,0.25,707.88,233.69,2025-02
+ORD-10604,2025-09-02,CUST-0030,Diego Johnson,Consumer,West,CO,Partner,Technology,Webcam,1255.64,6,0.25,810.83,444.81,2025-09
+ORD-10683,2025-08-16,CUST-0212,Maya Lewis,Home Office,West,OR,Retail,Office Supplies,Desk Organizer,184.13,5,0.3,116.79,67.34,2025-08
+ORD-10145,2025-07-04,CUST-0219,Nia Johnson,Corporate,West,CA,Online,Furniture,Standing Desk,917.83,4,0.2,637.78,280.05,2025-07
+ORD-10182,2025-12-07,CUST-0034,Lena Wilson,Corporate,Central,OH,Online,Technology,Headset,1264.12,5,0.1,814.04,450.08,2025-12
+ORD-10505,2025-03-17,CUST-0061,Lena Walker,Corporate,Central,MO,Online,Office Supplies,Binder Set,42.95,1,0.2,32.7,10.25,2025-03
+ORD-10400,2025-05-07,CUST-0069,Zoe Taylor,Corporate,East,VA,Online,Technology,Monitor,1466.27,6,0.1,921.21,545.06,2025-05
+ORD-10355,2025-09-01,CUST-0214,Andre Smith,Home Office,Central,TX,Online,Office Supplies,Printer Paper,151.1,5,0.3,87.38,63.72,2025-09
+ORD-10792,2025-04-20,CUST-0100,Zoe Moore,Home Office,Central,MO,Online,Furniture,Standing Desk,996.06,4,0.1,820.74,175.32,2025-04
+ORD-10103,2025-01-21,CUST-0178,Noah Thomas,Consumer,East,VA,Online,Technology,Laptop Dock,838.18,3,0.05,558.5,279.68,2025-01
+ORD-10782,2025-10-20,CUST-0141,Sophia Martinez,Home Office,West,CO,Online,Furniture,Standing Desk,347.25,1,0.2,229.69,117.56,2025-10
+ORD-10701,2025-11-08,CUST-0115,Chloe Taylor,Corporate,Central,IL,Retail,Office Supplies,Labels,208.56,6,0.25,117.31,91.25,2025-11
+ORD-10162,2025-09-23,CUST-0147,Marcus Smith,Consumer,Central,OH,Partner,Furniture,Office Chair,1129.04,4,0.15,992.21,136.83,2025-09
+ORD-10121,2025-02-13,CUST-0097,Noah Moore,Consumer,West,OR,Retail,Technology,Monitor,539.76,3,0.1,383.76,156.0,2025-02
+ORD-10015,2025-09-12,CUST-0158,Sophia Walker,Consumer,West,WA,Retail,Furniture,Bookcase,290.27,1,0.0,245.84,44.43,2025-09
+ORD-10844,2025-08-11,CUST-0008,Nia Lee,Consumer,East,NY,Retail,Office Supplies,Printer Paper,233.19,5,0.0,177.66,55.53,2025-08
+ORD-10441,2025-03-25,CUST-0215,Emma Lee,Home Office,East,NY,Online,Office Supplies,Binder Set,86.17,2,0.0,56.8,29.37,2025-03
+ORD-10687,2025-12-27,CUST-0090,Marcus Smith,Consumer,Central,IL,Online,Technology,Laptop Dock,1037.81,5,0.2,741.81,296.0,2025-12
+ORD-10342,2025-11-16,CUST-0065,Marcus Thomas,Corporate,East,MD,Online,Furniture,Filing Cabinet,2153.4,7,0.0,1598.9,554.5,2025-11
+ORD-10036,2025-10-02,CUST-0015,Malik Taylor,Corporate,West,CO,Retail,Furniture,Conference Table,742.74,3,0.15,524.68,218.06,2025-10
+ORD-10209,2025-01-17,CUST-0058,Chloe Clark,Consumer,West,CA,Retail,Office Supplies,Labels,132.36,4,0.15,94.93,37.43,2025-01
+ORD-10370,2025-02-23,CUST-0170,Zoe Johnson,Consumer,West,AZ,Retail,Technology,Laptop Dock,941.1,4,0.0,544.73,396.37,2025-02
+ORD-10089,2025-03-01,CUST-0169,Andre Davis,Consumer,South,GA,Partner,Technology,Wireless Mouse,144.39,1,0.25,84.82,59.57,2025-03
+ORD-10066,2025-06-06,CUST-0072,Sophia Brown,Consumer,South,TN,Online,Technology,Webcam,862.92,4,0.1,530.92,332.0,2025-06
+ORD-10595,2025-09-22,CUST-0071,Lena Lee,Consumer,Central,IL,Online,Technology,Webcam,1047.02,5,0.15,660.15,386.87,2025-09
+ORD-10343,2025-07-13,CUST-0137,Emma Taylor,Consumer,South,SC,Online,Office Supplies,Printer Paper,26.98,1,0.0,15.95,11.03,2025-07
+ORD-10594,2025-06-03,CUST-0216,Lena Brown,Corporate,South,TN,Partner,Office Supplies,Binder Set,236.22,5,0.0,138.04,98.18,2025-06
+ORD-10361,2025-05-11,CUST-0187,Carlos Garcia,Consumer,South,SC,Retail,Office Supplies,Desk Organizer,68.86,1,0.0,44.13,24.73,2025-05
+ORD-10460,2025-03-05,CUST-0024,Diego Wilson,Consumer,South,TN,Online,Technology,Headset,178.31,1,0.0,138.42,39.89,2025-03
+ORD-10703,2025-10-31,CUST-0037,Noah Thomas,Corporate,East,PA,Retail,Furniture,Office Chair,520.53,2,0.0,341.06,179.47,2025-10
+ORD-10650,2025-02-18,CUST-0187,Carlos Garcia,Corporate,East,MD,Retail,Technology,Headset,672.71,3,0.0,443.91,228.8,2025-02
+ORD-10677,2025-09-07,CUST-0128,Marcus Thomas,Consumer,South,TN,Retail,Office Supplies,Binder Set,92.39,2,0.1,71.88,20.51,2025-09
+ORD-10038,2025-08-29,CUST-0183,Andre Lee,Consumer,Central,OH,Online,Office Supplies,Labels,225.45,6,0.15,145.45,80.0,2025-08
+ORD-10798,2025-09-06,CUST-0101,Noah Taylor,Home Office,South,NC,Retail,Technology,Wireless Mouse,874.71,4,0.25,541.98,332.73,2025-09
+ORD-10179,2025-01-11,CUST-0199,Ava Johnson,Corporate,West,AZ,Retail,Furniture,Conference Table,164.93,1,0.15,124.46,40.47,2025-01
+ORD-10419,2025-06-08,CUST-0066,Jordan Wilson,Consumer,Central,TX,Online,Office Supplies,Labels,25.48,1,0.1,15.07,10.41,2025-06
+ORD-10692,2025-05-16,CUST-0175,Ethan Thomas,Consumer,South,FL,Online,Technology,Headset,270.29,2,0.15,151.67,118.62,2025-05
+ORD-10031,2025-10-06,CUST-0100,Zoe Moore,Consumer,West,CO,Online,Furniture,Filing Cabinet,1696.84,6,0.0,1147.54,549.3,2025-10
+ORD-10151,2025-07-03,CUST-0189,Noah Martinez,Consumer,South,GA,Online,Furniture,Standing Desk,1096.52,4,0.1,876.29,220.23,2025-07
+ORD-10286,2025-03-18,CUST-0207,Chloe Davis,Consumer,Central,IL,Online,Office Supplies,Binder Set,275.35,7,0.1,196.37,78.98,2025-03
+ORD-10726,2025-02-15,CUST-0026,Carlos Wilson,Home Office,Central,IL,Retail,Furniture,Office Chair,1777.88,7,0.2,1185.55,592.33,2025-02
+ORD-10724,2025-04-17,CUST-0027,Malik Thomas,Home Office,Central,MI,Online,Furniture,Office Chair,753.83,3,0.05,651.21,102.62,2025-04
+ORD-10194,2025-05-11,CUST-0080,Carlos Walker,Consumer,Central,OH,Online,Furniture,Standing Desk,795.61,3,0.05,541.37,254.24,2025-05
+ORD-10288,2025-06-14,CUST-0126,Zoe Johnson,Consumer,South,FL,Online,Office Supplies,Pens,159.09,4,0.25,102.04,57.05,2025-06
+ORD-10477,2025-09-08,CUST-0187,Carlos Garcia,Consumer,West,CA,Retail,Technology,Webcam,589.93,2,0.05,346.0,243.93,2025-09
+ORD-10204,2025-02-03,CUST-0154,Maya Johnson,Consumer,South,NC,Retail,Furniture,Standing Desk,1165.07,4,0.0,878.71,286.36,2025-02
+ORD-10219,2025-01-01,CUST-0099,Ethan Clark,Consumer,East,VA,Retail,Furniture,Standing Desk,159.36,1,0.05,116.13,43.23,2025-01
+ORD-10612,2025-07-25,CUST-0102,Marcus Taylor,Home Office,West,CO,Online,Technology,Webcam,1306.98,5,0.05,885.86,421.12,2025-07
+ORD-10198,2025-08-29,CUST-0026,Carlos Wilson,Consumer,Central,OH,Online,Technology,Webcam,1554.82,7,0.15,871.8,683.02,2025-08
+ORD-10315,2025-12-01,CUST-0054,Andre Clark,Consumer,South,NC,Online,Office Supplies,Printer Paper,251.24,7,0.25,186.87,64.37,2025-12
+ORD-10583,2025-11-17,CUST-0024,Diego Wilson,Home Office,South,GA,Online,Office Supplies,Labels,26.97,1,0.2,18.7,8.27,2025-11
+ORD-10697,2025-11-12,CUST-0159,Ava Smith,Corporate,West,OR,Online,Technology,Headset,1454.25,6,0.0,1019.89,434.36,2025-11
+ORD-10700,2025-08-02,CUST-0021,Noah Clark,Consumer,South,SC,Online,Furniture,Conference Table,495.94,2,0.1,399.23,96.71,2025-08
+ORD-10774,2025-10-06,CUST-0158,Sophia Walker,Corporate,West,OR,Online,Office Supplies,Desk Organizer,131.53,3,0.1,85.14,46.39,2025-10
+ORD-10170,2025-02-23,CUST-0005,Diego Brown,Home Office,Central,MO,Partner,Technology,Laptop Dock,586.95,2,0.0,339.62,247.33,2025-02
+ORD-10509,2025-07-29,CUST-0060,Ava Davis,Corporate,East,NY,Retail,Furniture,Bookcase,1692.41,5,0.0,1374.01,318.4,2025-07
+ORD-10488,2025-09-05,CUST-0117,Ethan Thomas,Home Office,East,MD,Online,Technology,Headset,140.31,1,0.2,79.46,60.85,2025-09
+ORD-10312,2025-09-30,CUST-0148,Chloe Taylor,Home Office,West,WA,Retail,Office Supplies,Labels,28.39,1,0.25,16.8,11.59,2025-09
+ORD-10189,2025-08-24,CUST-0053,Lena Brown,Corporate,South,NC,Retail,Furniture,Bookcase,1903.13,7,0.1,1252.32,650.81,2025-08
+ORD-10389,2025-02-18,CUST-0197,Andre Wilson,Consumer,South,TN,Online,Furniture,Bookcase,1492.92,5,0.05,1209.34,283.58,2025-02
+ORD-10563,2025-11-15,CUST-0109,Jordan Moore,Consumer,Central,IL,Online,Technology,Monitor,1078.67,4,0.0,650.24,428.43,2025-11
+ORD-10407,2025-03-21,CUST-0096,Emma Davis,Corporate,Central,TX,Partner,Technology,Wireless Mouse,781.85,3,0.1,470.48,311.37,2025-03
+ORD-10734,2025-10-28,CUST-0171,Emma Taylor,Home Office,South,NC,Online,Technology,Wireless Mouse,1336.66,6,0.15,746.8,589.86,2025-10
+ORD-10373,2025-08-20,CUST-0091,Carlos Brown,Corporate,East,NY,Partner,Technology,Laptop Dock,1238.56,6,0.1,813.12,425.44,2025-08
+ORD-10437,2025-05-01,CUST-0125,Sophia Johnson,Consumer,West,CO,Online,Technology,Monitor,1069.29,4,0.1,683.94,385.35,2025-05
+ORD-10354,2025-02-06,CUST-0096,Emma Davis,Consumer,Central,OH,Online,Technology,Headset,226.02,1,0.1,124.87,101.15,2025-02
+ORD-10676,2025-11-14,CUST-0160,Emma Thomas,Corporate,Central,MI,Retail,Office Supplies,Pens,180.78,5,0.15,111.98,68.8,2025-11
+ORD-10716,2025-02-08,CUST-0176,Andre Smith,Consumer,South,GA,Retail,Furniture,Filing Cabinet,1634.36,7,0.25,1266.4,367.96,2025-02
+ORD-10035,2025-06-01,CUST-0196,Jordan Garcia,Consumer,Central,MO,Online,Office Supplies,Pens,242.53,6,0.1,175.96,66.57,2025-06
+ORD-10289,2025-07-11,CUST-0120,Sophia Brown,Consumer,South,GA,Online,Office Supplies,Binder Set,303.52,7,0.05,167.24,136.28,2025-07
+ORD-10264,2025-10-23,CUST-0204,Zoe Martinez,Consumer,East,VA,Online,Office Supplies,Binder Set,189.08,5,0.1,130.83,58.25,2025-10
+ORD-10112,2025-12-06,CUST-0172,Malik Martinez,Corporate,Central,IL,Retail,Furniture,Conference Table,703.33,3,0.2,615.38,87.95,2025-12
+ORD-10487,2025-08-06,CUST-0074,Lena Martinez,Consumer,South,GA,Online,Technology,Headset,465.65,3,0.3,323.22,142.43,2025-08
+ORD-10231,2025-08-31,CUST-0102,Marcus Taylor,Consumer,West,WA,Retail,Office Supplies,Pens,52.42,2,0.3,35.67,16.75,2025-08
+ORD-10141,2025-02-14,CUST-0217,Ethan Davis,Consumer,South,NC,Online,Technology,Headset,1232.29,6,0.2,708.73,523.56,2025-02
+ORD-10173,2025-12-25,CUST-0170,Zoe Johnson,Consumer,West,CA,Retail,Technology,Wireless Mouse,1219.23,6,0.15,917.93,301.3,2025-12
+ORD-10048,2025-06-02,CUST-0197,Andre Wilson,Corporate,Central,MO,Retail,Technology,Webcam,1505.03,6,0.0,937.54,567.49,2025-06
+ORD-10069,2025-01-16,CUST-0017,Marcus Clark,Consumer,Central,MI,Retail,Furniture,Filing Cabinet,888.41,3,0.15,577.8,310.61,2025-01
+ORD-10719,2025-07-18,CUST-0052,Nia Walker,Consumer,South,GA,Partner,Office Supplies,Binder Set,231.85,6,0.15,136.6,95.25,2025-07
+ORD-10602,2025-02-11,CUST-0172,Malik Martinez,Consumer,South,SC,Online,Office Supplies,Binder Set,131.75,2,0.0,85.0,46.75,2025-02
+ORD-10181,2025-12-03,CUST-0207,Chloe Davis,Home Office,East,VA,Retail,Technology,Wireless Mouse,266.18,1,0.1,181.86,84.32,2025-12
+ORD-10246,2025-03-07,CUST-0019,Nia Lee,Consumer,West,AZ,Retail,Furniture,Bookcase,1144.52,4,0.1,851.87,292.65,2025-03
+ORD-10003,2025-04-13,CUST-0145,Carlos Walker,Home Office,West,AZ,Online,Office Supplies,Pens,157.53,4,0.2,114.75,42.78,2025-04
+ORD-10603,2025-06-02,CUST-0163,Maya Martinez,Corporate,South,GA,Retail,Office Supplies,Printer Paper,98.12,2,0.1,71.66,26.46,2025-06
+ORD-10328,2025-04-22,CUST-0009,Chloe Johnson,Consumer,West,AZ,Retail,Furniture,Filing Cabinet,120.52,1,0.0,97.21,23.31,2025-04
+ORD-10469,2025-09-26,CUST-0040,Emma Clark,Consumer,Central,TX,Online,Furniture,Standing Desk,1208.68,5,0.15,851.78,356.9,2025-09
+ORD-10101,2025-04-10,CUST-0184,Nia Martinez,Consumer,South,SC,Online,Office Supplies,Binder Set,84.74,2,0.0,59.7,25.04,2025-04
+ORD-10212,2025-02-26,CUST-0158,Sophia Walker,Consumer,South,FL,Partner,Furniture,Filing Cabinet,795.03,2,0.1,639.02,156.01,2025-02
+ORD-10535,2025-05-31,CUST-0128,Marcus Thomas,Home Office,Central,MO,Partner,Technology,Wireless Mouse,884.96,4,0.1,609.03,275.93,2025-05
+ORD-10165,2025-05-02,CUST-0092,Carlos Lewis,Consumer,South,FL,Retail,Technology,Headset,1289.64,6,0.1,801.25,488.39,2025-05
+ORD-10200,2025-06-05,CUST-0212,Maya Lewis,Corporate,Central,MI,Online,Office Supplies,Labels,217.24,5,0.1,156.31,60.93,2025-06
+ORD-10717,2025-03-30,CUST-0114,Andre Lewis,Consumer,South,TN,Retail,Technology,Laptop Dock,533.47,2,0.0,324.98,208.49,2025-03
+ORD-10139,2025-09-26,CUST-0077,Noah Garcia,Home Office,West,CO,Retail,Furniture,Office Chair,1125.51,4,0.2,896.89,228.62,2025-09
+ORD-10462,2025-12-07,CUST-0031,Maya Martinez,Consumer,West,OR,Retail,Technology,Laptop Dock,307.76,1,0.05,225.94,81.82,2025-12
+ORD-10047,2025-04-30,CUST-0099,Ethan Clark,Corporate,East,MD,Retail,Office Supplies,Labels,196.95,5,0.2,143.23,53.72,2025-04
+ORD-10013,2025-11-16,CUST-0162,Malik Walker,Home Office,South,FL,Online,Office Supplies,Printer Paper,297.81,7,0.05,196.6,101.21,2025-11
+ORD-10809,2025-01-24,CUST-0087,Marcus Walker,Consumer,Central,IL,Online,Technology,Laptop Dock,632.9,3,0.25,473.67,159.23,2025-01
+ORD-10245,2025-03-06,CUST-0139,Diego Walker,Consumer,Central,OH,Retail,Technology,Monitor,1544.54,6,0.0,1064.48,480.06,2025-03
+ORD-10427,2025-09-16,CUST-0191,Diego Johnson,Corporate,Central,IL,Retail,Office Supplies,Labels,125.39,4,0.3,72.44,52.95,2025-09
+ORD-10222,2025-12-17,CUST-0101,Noah Taylor,Consumer,East,VA,Online,Furniture,Office Chair,961.29,3,0.0,690.49,270.8,2025-12
+ORD-10164,2025-06-21,CUST-0090,Marcus Smith,Corporate,Central,OH,Partner,Technology,Webcam,494.37,1,0.2,296.36,198.01,2025-06
+ORD-10769,2025-02-17,CUST-0031,Maya Martinez,Consumer,South,SC,Online,Office Supplies,Pens,343.78,7,0.0,209.49,134.29,2025-02
+ORD-10197,2025-10-24,CUST-0076,Carlos Davis,Corporate,Central,OH,Online,Technology,Monitor,571.07,2,0.1,438.09,132.98,2025-10
+ORD-10828,2025-12-15,CUST-0198,Chloe Lewis,Consumer,Central,IL,Online,Technology,Wireless Mouse,328.63,2,0.1,199.71,128.92,2025-12
+ORD-10522,2025-07-27,CUST-0033,Emma Martinez,Corporate,East,VA,Partner,Technology,Headset,789.99,3,0.0,514.37,275.62,2025-07
+ORD-10587,2025-08-14,CUST-0152,Marcus Clark,Corporate,Central,MI,Online,Furniture,Standing Desk,1980.44,7,0.0,1421.35,559.09,2025-08
+ORD-10040,2025-08-26,CUST-0139,Diego Walker,Corporate,West,WA,Retail,Technology,Headset,1142.73,4,0.05,852.05,290.68,2025-08
+ORD-10632,2025-03-08,CUST-0073,Chloe Davis,Consumer,East,PA,Online,Technology,Wireless Mouse,1400.35,6,0.1,1068.57,331.78,2025-03
+ORD-10501,2025-09-27,CUST-0026,Carlos Wilson,Consumer,East,PA,Online,Office Supplies,Labels,70.54,2,0.1,43.78,26.76,2025-09
+ORD-10018,2025-11-14,CUST-0029,Lena Lee,Corporate,West,OR,Online,Furniture,Office Chair,332.59,1,0.0,250.99,81.6,2025-11
+ORD-10297,2025-05-25,CUST-0187,Carlos Garcia,Consumer,Central,IL,Online,Technology,Laptop Dock,1276.58,6,0.1,792.73,483.85,2025-05
+ORD-10138,2025-05-21,CUST-0007,Jordan Lewis,Consumer,South,TN,Retail,Office Supplies,Labels,66.27,2,0.3,50.75,15.52,2025-05
+ORD-10126,2025-04-24,CUST-0125,Sophia Johnson,Consumer,South,SC,Online,Furniture,Filing Cabinet,1223.78,4,0.0,1069.4,154.38,2025-04
+ORD-10058,2025-02-21,CUST-0034,Lena Wilson,Consumer,West,CO,Retail,Office Supplies,Desk Organizer,196.96,5,0.15,109.67,87.29,2025-02
+ORD-10826,2025-03-08,CUST-0020,Carlos Clark,Consumer,South,TN,Retail,Office Supplies,Pens,61.4,1,0.2,37.75,23.65,2025-03
+ORD-10284,2025-02-16,CUST-0108,Marcus Moore,Corporate,South,NC,Partner,Office Supplies,Desk Organizer,126.23,3,0.1,85.96,40.27,2025-02
+ORD-10538,2025-11-24,CUST-0026,Carlos Wilson,Corporate,East,PA,Partner,Office Supplies,Desk Organizer,84.01,2,0.2,62.43,21.58,2025-11
+ORD-10025,2025-09-12,CUST-0172,Malik Martinez,Home Office,West,WA,Retail,Technology,Monitor,533.63,3,0.25,386.32,147.31,2025-09
+ORD-10004,2025-10-11,CUST-0097,Noah Moore,Corporate,Central,MI,Retail,Technology,Wireless Mouse,1178.78,4,0.0,678.72,500.06,2025-10
+ORD-10352,2025-08-04,CUST-0010,Diego Martinez,Consumer,East,MD,Retail,Furniture,Filing Cabinet,179.67,1,0.0,150.94,28.73,2025-08
+ORD-10665,2025-12-13,CUST-0132,Nia Smith,Corporate,Central,MO,Online,Technology,Headset,753.14,3,0.1,569.14,184.0,2025-12
+ORD-10663,2025-12-29,CUST-0008,Nia Lee,Consumer,East,PA,Online,Technology,Laptop Dock,1426.69,6,0.1,1078.66,348.03,2025-12
+ORD-10298,2025-05-08,CUST-0097,Noah Moore,Consumer,Central,MO,Partner,Technology,Monitor,894.82,3,0.15,697.48,197.34,2025-05
+ORD-10096,2025-09-12,CUST-0064,Sophia Taylor,Consumer,South,GA,Online,Office Supplies,Desk Organizer,46.94,1,0.2,26.63,20.31,2025-09
+ORD-10187,2025-04-19,CUST-0037,Noah Thomas,Consumer,Central,OH,Online,Technology,Monitor,255.88,1,0.2,150.0,105.88,2025-04
+ORD-10576,2025-04-24,CUST-0083,Carlos Martinez,Corporate,Central,MO,Partner,Office Supplies,Pens,157.08,4,0.0,88.4,68.68,2025-04
+ORD-10657,2025-04-17,CUST-0169,Andre Davis,Consumer,East,NJ,Online,Furniture,Conference Table,1153.31,4,0.0,914.51,238.8,2025-04
+ORD-10742,2025-07-15,CUST-0168,Chloe Lee,Home Office,Central,MI,Online,Technology,Headset,525.44,2,0.0,342.44,183.0,2025-07
+ORD-10385,2025-12-06,CUST-0008,Nia Lee,Corporate,Central,IL,Online,Office Supplies,Pens,80.47,2,0.0,52.45,28.02,2025-12
+ORD-10340,2025-08-17,CUST-0210,Carlos Thomas,Corporate,East,PA,Retail,Office Supplies,Pens,313.54,7,0.0,223.22,90.32,2025-08
+ORD-10074,2025-02-23,CUST-0029,Lena Lee,Consumer,West,CA,Retail,Furniture,Conference Table,477.72,2,0.2,390.08,87.64,2025-02
+ORD-10507,2025-01-26,CUST-0117,Ethan Thomas,Home Office,West,WA,Partner,Technology,Laptop Dock,1454.51,6,0.1,802.28,652.23,2025-01
+ORD-10544,2025-07-23,CUST-0039,Lena Martinez,Consumer,Central,TX,Online,Technology,Webcam,931.15,5,0.3,581.12,350.03,2025-07
+ORD-10123,2025-08-14,CUST-0144,Ava Smith,Consumer,East,NY,Retail,Office Supplies,Printer Paper,184.0,4,0.05,137.47,46.53,2025-08
+ORD-10306,2025-11-18,CUST-0031,Maya Martinez,Consumer,South,GA,Partner,Technology,Monitor,1245.88,5,0.0,881.39,364.49,2025-11
+ORD-10077,2025-10-28,CUST-0073,Chloe Davis,Consumer,West,WA,Partner,Furniture,Filing Cabinet,290.66,1,0.25,255.12,35.54,2025-10
+ORD-10768,2025-12-30,CUST-0106,Malik Garcia,Consumer,South,TN,Retail,Furniture,Office Chair,780.41,4,0.2,518.42,261.99,2025-12
+ORD-10599,2025-02-24,CUST-0139,Diego Walker,Home Office,South,TN,Partner,Technology,Wireless Mouse,374.69,2,0.2,241.99,132.7,2025-02
+ORD-10005,2025-05-02,CUST-0096,Emma Davis,Home Office,West,AZ,Partner,Furniture,Conference Table,1263.53,5,0.2,905.1,358.43,2025-05
+ORD-10395,2025-06-23,CUST-0159,Ava Smith,Consumer,Central,MI,Retail,Office Supplies,Pens,73.78,1,0.1,47.15,26.63,2025-06
+ORD-10735,2025-01-17,CUST-0046,Emma Lee,Consumer,West,CO,Partner,Office Supplies,Printer Paper,154.1,4,0.0,95.13,58.97,2025-01
+ORD-10408,2025-08-10,CUST-0032,Diego Clark,Corporate,South,SC,Retail,Technology,Laptop Dock,844.34,4,0.2,518.86,325.48,2025-08
+ORD-10564,2025-03-24,CUST-0040,Emma Clark,Corporate,Central,MI,Retail,Furniture,Conference Table,1563.65,6,0.25,1315.1,248.55,2025-03
+ORD-10433,2025-11-21,CUST-0182,Emma Taylor,Consumer,East,PA,Online,Furniture,Conference Table,1773.87,6,0.05,1458.53,315.34,2025-11
+ORD-10055,2025-01-12,CUST-0110,Maya Garcia,Corporate,West,AZ,Online,Technology,Laptop Dock,328.31,1,0.15,191.25,137.06,2025-01
+ORD-10653,2025-09-28,CUST-0045,Noah Moore,Corporate,Central,TX,Retail,Furniture,Conference Table,1016.39,4,0.25,673.6,342.79,2025-09
+ORD-10429,2025-10-07,CUST-0006,Marcus Wilson,Consumer,West,AZ,Online,Technology,Wireless Mouse,435.04,2,0.0,278.03,157.01,2025-10
+ORD-10117,2025-10-29,CUST-0009,Chloe Johnson,Consumer,East,NJ,Retail,Furniture,Office Chair,415.99,2,0.0,330.01,85.98,2025-10
+ORD-10545,2025-01-25,CUST-0183,Andre Lee,Consumer,South,TN,Online,Office Supplies,Binder Set,46.6,1,0.15,31.98,14.62,2025-01
+ORD-10313,2025-07-02,CUST-0027,Malik Thomas,Consumer,East,NJ,Online,Office Supplies,Desk Organizer,306.47,7,0.0,181.78,124.69,2025-07
+ORD-10781,2025-12-30,CUST-0194,Maya Clark,Corporate,East,VA,Retail,Office Supplies,Labels,118.65,3,0.05,75.31,43.34,2025-12
+ORD-10835,2025-10-04,CUST-0188,Maya Wilson,Corporate,South,SC,Retail,Technology,Laptop Dock,766.6,4,0.3,493.37,273.23,2025-10
+ORD-10262,2025-01-21,CUST-0038,Carlos Clark,Home Office,South,SC,Partner,Office Supplies,Printer Paper,190.78,5,0.15,106.53,84.25,2025-01
+ORD-10551,2025-04-18,CUST-0177,Marcus Clark,Corporate,West,CO,Retail,Technology,Wireless Mouse,880.86,4,0.25,609.07,271.79,2025-04
+ORD-10732,2025-01-20,CUST-0093,Marcus Davis,Consumer,South,GA,Online,Furniture,Office Chair,1125.78,3,0.0,847.95,277.83,2025-01
+ORD-10748,2025-11-03,CUST-0070,Maya Lee,Home Office,West,WA,Online,Furniture,Standing Desk,2191.19,7,0.05,1885.63,305.56,2025-11
+ORD-10695,2025-07-11,CUST-0020,Carlos Clark,Consumer,East,PA,Retail,Furniture,Bookcase,1223.58,5,0.25,937.22,286.36,2025-07
+ORD-10364,2025-12-25,CUST-0197,Andre Wilson,Corporate,South,SC,Partner,Technology,Laptop Dock,953.95,4,0.1,668.59,285.36,2025-12
+ORD-10824,2025-01-25,CUST-0144,Ava Smith,Corporate,Central,MO,Online,Furniture,Bookcase,865.99,4,0.15,621.56,244.43,2025-01
+ORD-10645,2025-09-15,CUST-0170,Zoe Johnson,Consumer,East,VA,Partner,Furniture,Conference Table,1572.42,6,0.05,1353.6,218.82,2025-09
+ORD-10099,2025-12-14,CUST-0141,Sophia Martinez,Consumer,Central,OH,Online,Furniture,Conference Table,594.99,2,0.15,503.04,91.95,2025-12
+ORD-10530,2025-07-29,CUST-0203,Noah Smith,Consumer,West,WA,Online,Technology,Webcam,1017.02,5,0.1,729.24,287.78,2025-07
+ORD-10572,2025-01-26,CUST-0092,Carlos Lewis,Consumer,South,NC,Partner,Technology,Wireless Mouse,385.46,2,0.2,236.36,149.1,2025-01
+ORD-10495,2025-07-18,CUST-0064,Sophia Taylor,Consumer,East,MD,Online,Technology,Webcam,613.16,3,0.2,451.74,161.42,2025-07
+ORD-10260,2025-09-28,CUST-0130,Noah Clark,Corporate,South,FL,Online,Furniture,Standing Desk,1918.94,6,0.1,1373.51,545.43,2025-09
+ORD-10623,2025-10-27,CUST-0037,Noah Thomas,Home Office,West,CO,Retail,Technology,Laptop Dock,279.37,1,0.0,164.24,115.13,2025-10
+ORD-10494,2025-09-12,CUST-0133,Emma Thomas,Consumer,West,WA,Retail,Furniture,Conference Table,409.78,2,0.1,285.99,123.79,2025-09
+ORD-10686,2025-03-02,CUST-0177,Marcus Clark,Consumer,South,TN,Online,Office Supplies,Pens,129.27,3,0.1,80.96,48.31,2025-03
+ORD-10607,2025-02-09,CUST-0072,Sophia Brown,Consumer,South,GA,Online,Technology,Headset,1085.36,5,0.2,699.85,385.51,2025-02
+ORD-10636,2025-06-12,CUST-0151,Marcus Walker,Corporate,East,PA,Retail,Technology,Webcam,805.66,4,0.2,536.9,268.76,2025-06
+ORD-10169,2025-06-16,CUST-0074,Lena Martinez,Corporate,South,TN,Online,Office Supplies,Labels,43.99,1,0.05,25.47,18.52,2025-06
+ORD-10265,2025-02-22,CUST-0218,Sophia Martinez,Home Office,South,NC,Partner,Technology,Monitor,783.31,3,0.0,587.36,195.95,2025-02
+ORD-10376,2025-04-02,CUST-0021,Noah Clark,Consumer,East,MD,Online,Furniture,Bookcase,1742.86,7,0.15,1244.58,498.28,2025-04
+ORD-10478,2025-07-02,CUST-0004,Malik Taylor,Consumer,West,AZ,Retail,Furniture,Conference Table,1259.77,5,0.2,864.94,394.83,2025-07
+ORD-10140,2025-02-23,CUST-0097,Noah Moore,Consumer,Central,TX,Retail,Technology,Laptop Dock,839.06,4,0.2,635.09,203.97,2025-02
+ORD-10521,2025-11-30,CUST-0079,Lena Garcia,Consumer,South,FL,Retail,Technology,Headset,804.91,3,0.15,450.82,354.09,2025-11
+ORD-10706,2025-01-26,CUST-0125,Sophia Johnson,Corporate,East,NY,Online,Furniture,Filing Cabinet,852.76,4,0.2,666.58,186.18,2025-01
+ORD-10814,2025-09-20,CUST-0063,Marcus Taylor,Corporate,West,OR,Online,Furniture,Conference Table,1809.06,6,0.1,1276.34,532.72,2025-09
+ORD-10710,2025-10-08,CUST-0103,Noah Garcia,Home Office,East,PA,Partner,Technology,Headset,775.28,3,0.0,546.75,228.53,2025-10
+ORD-10836,2025-05-20,CUST-0171,Emma Taylor,Home Office,South,GA,Retail,Office Supplies,Binder Set,287.95,7,0.0,180.1,107.85,2025-05
+ORD-10553,2025-08-09,CUST-0183,Andre Lee,Home Office,Central,MI,Online,Furniture,Conference Table,733.98,3,0.0,628.3,105.68,2025-08
+ORD-10269,2025-12-07,CUST-0135,Carlos Brown,Consumer,Central,MI,Partner,Office Supplies,Binder Set,248.91,6,0.2,157.75,91.16,2025-12
+ORD-10438,2025-05-08,CUST-0205,Maya Wilson,Corporate,West,OR,Retail,Technology,Headset,1210.98,5,0.15,710.87,500.11,2025-05
+ORD-10263,2025-04-27,CUST-0066,Jordan Wilson,Home Office,East,PA,Retail,Office Supplies,Desk Organizer,305.11,7,0.05,198.91,106.2,2025-04
+ORD-10420,2025-08-07,CUST-0112,Maya Johnson,Consumer,West,CA,Retail,Office Supplies,Labels,260.74,7,0.1,196.08,64.66,2025-08
+ORD-10424,2025-04-16,CUST-0128,Marcus Thomas,Corporate,West,CO,Retail,Technology,Webcam,590.73,3,0.3,341.44,249.29,2025-04
+ORD-10348,2025-05-27,CUST-0206,Ava Smith,Home Office,South,FL,Retail,Technology,Wireless Mouse,991.06,4,0.1,613.32,377.74,2025-05
+ORD-10330,2025-01-09,CUST-0123,Ethan Clark,Consumer,West,OR,Retail,Furniture,Bookcase,1508.67,5,0.05,1307.02,201.65,2025-01
+ORD-10012,2025-04-12,CUST-0215,Emma Lee,Corporate,Central,MO,Partner,Technology,Headset,1314.13,6,0.2,830.86,483.27,2025-04
+ORD-10203,2025-04-08,CUST-0109,Jordan Moore,Consumer,East,NY,Online,Office Supplies,Pens,124.54,3,0.2,76.68,47.86,2025-04
+ORD-10849,2025-06-07,CUST-0181,Chloe Garcia,Consumer,South,GA,Online,Office Supplies,Pens,203.67,6,0.2,123.58,80.09,2025-06
+ORD-10444,2025-11-17,CUST-0108,Marcus Moore,Corporate,South,GA,Online,Office Supplies,Printer Paper,157.39,4,0.15,104.12,53.27,2025-11
+ORD-10584,2025-08-10,CUST-0012,Emma Garcia,Home Office,South,SC,Retail,Furniture,Filing Cabinet,1111.98,3,0.0,814.22,297.76,2025-08
+ORD-10283,2025-01-21,CUST-0148,Chloe Taylor,Consumer,East,NY,Partner,Furniture,Conference Table,533.44,2,0.1,427.57,105.87,2025-01
+ORD-10252,2025-01-24,CUST-0109,Jordan Moore,Corporate,South,NC,Partner,Office Supplies,Desk Organizer,60.29,1,0.0,43.5,16.79,2025-01
+ORD-10565,2025-02-24,CUST-0196,Jordan Garcia,Consumer,East,VA,Online,Technology,Headset,1762.62,7,0.0,1033.95,728.67,2025-02
+ORD-10294,2025-01-10,CUST-0073,Chloe Davis,Home Office,South,NC,Online,Technology,Monitor,847.72,3,0.2,482.22,365.5,2025-01
+ORD-10579,2025-03-01,CUST-0197,Andre Wilson,Consumer,East,NJ,Retail,Furniture,Office Chair,1298.79,5,0.1,934.44,364.35,2025-03
+ORD-10107,2025-03-14,CUST-0172,Malik Martinez,Consumer,South,SC,Online,Office Supplies,Pens,304.95,6,0.0,184.24,120.71,2025-03
+ORD-10190,2025-12-05,CUST-0067,Malik Moore,Consumer,Central,TX,Online,Furniture,Filing Cabinet,1813.62,6,0.0,1296.17,517.45,2025-12
+ORD-10372,2025-07-28,CUST-0146,Zoe Lewis,Consumer,Central,MI,Online,Technology,Webcam,804.31,3,0.0,618.03,186.28,2025-07
+ORD-10213,2025-01-27,CUST-0174,Chloe Lee,Consumer,West,WA,Partner,Furniture,Office Chair,1239.88,5,0.2,920.05,319.83,2025-01
+ORD-10229,2025-09-26,CUST-0121,Jordan Moore,Consumer,West,CA,Retail,Furniture,Office Chair,1089.29,5,0.2,861.34,227.95,2025-09
+ORD-10457,2025-08-18,CUST-0033,Emma Martinez,Consumer,South,SC,Partner,Technology,Webcam,1092.6,3,0.0,816.63,275.97,2025-08
+ORD-10241,2025-12-16,CUST-0031,Maya Martinez,Corporate,South,NC,Retail,Furniture,Filing Cabinet,1462.41,6,0.3,974.17,488.24,2025-12
+ORD-10580,2025-08-13,CUST-0023,Noah Taylor,Consumer,South,FL,Online,Office Supplies,Desk Organizer,171.91,4,0.0,100.28,71.63,2025-08
+ORD-10755,2025-11-21,CUST-0123,Ethan Clark,Corporate,West,CA,Retail,Technology,Laptop Dock,344.82,1,0.2,224.36,120.46,2025-11
+ORD-10059,2025-10-18,CUST-0164,Andre Brown,Consumer,East,PA,Retail,Office Supplies,Desk Organizer,285.19,6,0.0,221.77,63.42,2025-10
+ORD-10592,2025-04-21,CUST-0199,Ava Johnson,Corporate,West,AZ,Online,Technology,Wireless Mouse,1389.34,7,0.25,835.5,553.84,2025-04
+ORD-10014,2025-05-04,CUST-0168,Chloe Lee,Consumer,East,NY,Online,Office Supplies,Desk Organizer,100.72,3,0.1,66.84,33.88,2025-05
+ORD-10842,2025-02-01,CUST-0145,Carlos Walker,Consumer,East,NJ,Online,Office Supplies,Pens,197.31,5,0.15,115.16,82.15,2025-02
+ORD-10428,2025-08-15,CUST-0177,Marcus Clark,Corporate,East,VA,Retail,Technology,Monitor,870.65,4,0.2,572.1,298.55,2025-08
+ORD-10275,2025-08-24,CUST-0092,Carlos Lewis,Consumer,West,WA,Online,Technology,Monitor,480.54,2,0.1,271.5,209.04,2025-08
+ORD-10578,2025-08-23,CUST-0116,Sophia Brown,Consumer,South,NC,Retail,Office Supplies,Desk Organizer,87.66,3,0.05,51.46,36.2,2025-08
+ORD-10184,2025-08-24,CUST-0154,Maya Johnson,Consumer,South,SC,Retail,Technology,Webcam,1361.8,5,0.05,855.59,506.21,2025-08
+ORD-10555,2025-06-15,CUST-0217,Ethan Davis,Consumer,East,NJ,Retail,Furniture,Bookcase,258.33,1,0.0,220.47,37.86,2025-06
+ORD-10143,2025-05-24,CUST-0061,Lena Walker,Consumer,West,AZ,Online,Office Supplies,Labels,261.4,7,0.2,194.84,66.56,2025-05
+ORD-10618,2025-10-14,CUST-0059,Chloe Moore,Consumer,South,FL,Online,Office Supplies,Printer Paper,301.43,7,0.0,186.21,115.22,2025-10
+ORD-10046,2025-08-06,CUST-0214,Andre Smith,Consumer,South,NC,Partner,Office Supplies,Pens,113.49,2,0.0,76.8,36.69,2025-08
+ORD-10596,2025-03-07,CUST-0177,Marcus Clark,Consumer,South,FL,Retail,Office Supplies,Pens,182.93,4,0.05,130.79,52.14,2025-03
+ORD-10072,2025-04-26,CUST-0042,Sophia Lewis,Corporate,East,MD,Online,Office Supplies,Desk Organizer,146.68,3,0.0,105.84,40.84,2025-04
+ORD-10115,2025-06-09,CUST-0112,Maya Johnson,Consumer,East,MD,Retail,Technology,Headset,741.8,3,0.05,464.54,277.26,2025-06
+ORD-10430,2025-09-02,CUST-0158,Sophia Walker,Corporate,East,NY,Partner,Office Supplies,Desk Organizer,159.36,4,0.15,122.14,37.22,2025-09
+ORD-10546,2025-01-22,CUST-0012,Emma Garcia,Corporate,South,FL,Online,Technology,Webcam,614.57,3,0.25,341.62,272.95,2025-01
+ORD-10754,2025-10-09,CUST-0206,Ava Smith,Consumer,West,CO,Retail,Technology,Wireless Mouse,344.38,1,0.0,197.94,146.44,2025-10
+ORD-10512,2025-08-13,CUST-0165,Noah Taylor,Consumer,East,VA,Online,Furniture,Standing Desk,1464.35,5,0.05,1027.12,437.23,2025-08
+ORD-10582,2025-01-04,CUST-0184,Nia Martinez,Home Office,Central,MO,Retail,Technology,Laptop Dock,869.93,3,0.0,581.1,288.83,2025-01
+ORD-10439,2025-08-14,CUST-0018,Nia Lee,Consumer,East,MD,Online,Technology,Laptop Dock,1694.59,7,0.1,1039.5,655.09,2025-08
+ORD-10489,2025-03-26,CUST-0169,Andre Davis,Home Office,East,VA,Online,Technology,Wireless Mouse,553.65,3,0.25,344.88,208.77,2025-03
+ORD-10746,2025-11-26,CUST-0081,Ava Smith,Corporate,East,NJ,Retail,Technology,Headset,1261.52,5,0.0,762.28,499.24,2025-11
+ORD-10739,2025-12-17,CUST-0163,Maya Martinez,Consumer,South,FL,Online,Technology,Headset,906.08,4,0.1,518.93,387.15,2025-12
+ORD-10743,2025-02-02,CUST-0140,Zoe Wilson,Consumer,East,MD,Online,Office Supplies,Pens,109.04,3,0.2,63.42,45.62,2025-02
+ORD-10030,2025-09-01,CUST-0098,Diego Walker,Corporate,West,AZ,Online,Technology,Webcam,1129.65,6,0.2,653.01,476.64,2025-09
+ORD-10431,2025-02-19,CUST-0019,Nia Lee,Corporate,Central,MI,Partner,Furniture,Standing Desk,403.24,1,0.0,292.15,111.09,2025-02
+ORD-10421,2025-01-15,CUST-0205,Maya Wilson,Consumer,South,NC,Partner,Technology,Monitor,863.22,4,0.2,615.77,247.45,2025-01
+ORD-10093,2025-03-15,CUST-0186,Ava Garcia,Home Office,East,NJ,Online,Furniture,Conference Table,791.27,4,0.3,663.81,127.46,2025-03
+ORD-10539,2025-06-14,CUST-0119,Ethan Walker,Corporate,Central,MI,Online,Office Supplies,Desk Organizer,138.89,4,0.3,104.47,34.42,2025-06
+ORD-10356,2025-07-16,CUST-0219,Nia Johnson,Consumer,West,AZ,Online,Technology,Wireless Mouse,270.77,2,0.3,158.64,112.13,2025-07
+ORD-10841,2025-03-13,CUST-0064,Sophia Taylor,Consumer,West,OR,Retail,Technology,Headset,954.64,4,0.1,556.95,397.69,2025-03
+ORD-10741,2025-08-31,CUST-0180,Maya Walker,Corporate,West,CA,Retail,Technology,Laptop Dock,860.14,3,0.15,568.14,292.0,2025-08
+ORD-10698,2025-03-05,CUST-0130,Noah Clark,Consumer,West,AZ,Online,Office Supplies,Labels,185.31,6,0.3,118.33,66.98,2025-03
+ORD-10192,2025-08-08,CUST-0139,Diego Walker,Consumer,West,AZ,Online,Furniture,Bookcase,1447.93,5,0.1,988.54,459.39,2025-08
+ORD-10556,2025-09-17,CUST-0111,Sophia Clark,Corporate,West,AZ,Online,Office Supplies,Desk Organizer,87.23,2,0.1,63.28,23.95,2025-09
+ORD-10091,2025-08-03,CUST-0096,Emma Davis,Corporate,South,SC,Online,Furniture,Standing Desk,1157.12,4,0.2,977.99,179.13,2025-08
+ORD-10484,2025-02-16,CUST-0176,Andre Smith,Consumer,Central,MO,Retail,Technology,Wireless Mouse,244.57,1,0.25,152.42,92.15,2025-02
+ORD-10067,2025-05-22,CUST-0200,Chloe Smith,Consumer,West,AZ,Online,Technology,Monitor,230.18,2,0.25,130.33,99.85,2025-05
+ORD-10412,2025-01-01,CUST-0051,Carlos Moore,Home Office,West,AZ,Retail,Technology,Laptop Dock,876.1,3,0.05,578.76,297.34,2025-01
+ORD-10326,2025-12-18,CUST-0051,Carlos Moore,Consumer,South,GA,Retail,Furniture,Conference Table,1117.66,4,0.1,875.32,242.34,2025-12
+ORD-10220,2025-09-27,CUST-0199,Ava Johnson,Consumer,Central,MI,Retail,Technology,Webcam,330.05,1,0.1,209.89,120.16,2025-09
+ORD-10247,2025-01-07,CUST-0167,Jordan Thomas,Consumer,East,MD,Retail,Technology,Wireless Mouse,1605.76,7,0.2,1000.04,605.72,2025-01
+ORD-10217,2025-02-28,CUST-0018,Nia Lee,Consumer,West,AZ,Retail,Office Supplies,Binder Set,271.72,6,0.1,210.54,61.18,2025-02
+ORD-10024,2025-01-26,CUST-0204,Zoe Martinez,Consumer,South,TN,Online,Technology,Headset,252.92,1,0.1,150.03,102.89,2025-01
+ORD-10778,2025-01-26,CUST-0027,Malik Thomas,Consumer,South,SC,Retail,Office Supplies,Labels,265.49,6,0.0,181.75,83.74,2025-01
+ORD-10820,2025-11-24,CUST-0220,Ethan Moore,Home Office,South,NC,Retail,Office Supplies,Printer Paper,87.81,2,0.15,55.07,32.74,2025-11
+ORD-10234,2025-01-03,CUST-0167,Jordan Thomas,Home Office,Central,IL,Retail,Technology,Monitor,1599.42,6,0.05,1096.86,502.56,2025-01
+ORD-10397,2025-10-25,CUST-0010,Diego Martinez,Consumer,West,CA,Retail,Furniture,Standing Desk,2119.79,7,0.1,1450.87,668.92,2025-10
+ORD-10571,2025-12-24,CUST-0209,Carlos Wilson,Consumer,East,PA,Partner,Office Supplies,Printer Paper,125.52,3,0.2,92.62,32.9,2025-12
+ORD-10150,2025-03-24,CUST-0013,Ava Brown,Consumer,West,OR,Online,Office Supplies,Printer Paper,334.76,7,0.0,205.0,129.76,2025-03
+ORD-10797,2025-02-19,CUST-0214,Andre Smith,Consumer,South,NC,Partner,Office Supplies,Desk Organizer,233.05,5,0.05,179.51,53.54,2025-02
+ORD-10500,2025-09-19,CUST-0094,Maya Lewis,Consumer,East,PA,Online,Technology,Webcam,657.96,3,0.1,386.19,271.77,2025-09
+ORD-10163,2025-04-20,CUST-0091,Carlos Brown,Consumer,Central,OH,Online,Furniture,Office Chair,170.61,1,0.15,146.93,23.68,2025-04
+ORD-10161,2025-09-13,CUST-0220,Ethan Moore,Consumer,South,GA,Retail,Furniture,Bookcase,1670.36,7,0.15,1190.59,479.77,2025-09
+ORD-10508,2025-04-18,CUST-0055,Maya Thomas,Consumer,East,NY,Online,Office Supplies,Printer Paper,248.84,6,0.1,185.79,63.05,2025-04
+ORD-10808,2025-09-01,CUST-0025,Jordan Brown,Corporate,South,NC,Online,Technology,Webcam,296.76,1,0.05,193.82,102.94,2025-09
+ORD-10153,2025-11-24,CUST-0202,Diego Moore,Consumer,Central,IL,Online,Furniture,Conference Table,567.63,2,0.3,413.4,154.23,2025-11
+ORD-10635,2025-02-17,CUST-0041,Zoe Wilson,Consumer,East,PA,Retail,Technology,Laptop Dock,213.26,1,0.2,119.93,93.33,2025-02
+ORD-10671,2025-09-10,CUST-0210,Carlos Thomas,Consumer,Central,MO,Online,Technology,Headset,490.15,2,0.0,276.66,213.49,2025-09
+ORD-10127,2025-04-20,CUST-0018,Nia Lee,Consumer,South,FL,Retail,Technology,Laptop Dock,1060.87,5,0.3,794.33,266.54,2025-04
+ORD-10027,2025-10-02,CUST-0089,Ava Garcia,Corporate,South,SC,Online,Furniture,Office Chair,2043.78,7,0.0,1605.32,438.46,2025-10
+ORD-10693,2025-11-03,CUST-0205,Maya Wilson,Consumer,South,NC,Online,Furniture,Office Chair,199.0,1,0.0,138.14,60.86,2025-11
+ORD-10554,2025-01-18,CUST-0070,Maya Lee,Home Office,East,NJ,Partner,Technology,Wireless Mouse,1673.04,6,0.0,993.32,679.72,2025-01
+ORD-10830,2025-12-20,CUST-0007,Jordan Lewis,Home Office,East,VA,Retail,Technology,Laptop Dock,1082.81,6,0.3,754.49,328.32,2025-12
+ORD-10682,2025-07-08,CUST-0031,Maya Martinez,Consumer,Central,MO,Online,Technology,Wireless Mouse,1358.31,6,0.15,976.22,382.09,2025-07
+ORD-10095,2025-10-22,CUST-0198,Chloe Lewis,Consumer,South,NC,Retail,Technology,Laptop Dock,310.99,1,0.2,206.04,104.95,2025-10
+ORD-10715,2025-02-01,CUST-0203,Noah Smith,Corporate,West,WA,Online,Furniture,Office Chair,977.16,4,0.1,804.46,172.7,2025-02
+ORD-10426,2025-12-21,CUST-0044,Noah Walker,Consumer,South,TN,Retail,Furniture,Office Chair,806.12,3,0.2,564.16,241.96,2025-12
+ORD-10375,2025-04-15,CUST-0195,Diego Martinez,Consumer,Central,OH,Retail,Furniture,Office Chair,1106.83,3,0.0,725.36,381.47,2025-04
+ORD-10267,2025-06-19,CUST-0099,Ethan Clark,Home Office,East,PA,Online,Furniture,Office Chair,2056.68,6,0.0,1429.88,626.8,2025-06
+ORD-10144,2025-09-24,CUST-0090,Marcus Smith,Consumer,South,FL,Partner,Office Supplies,Pens,149.82,3,0.0,93.8,56.02,2025-09
+ORD-10640,2025-05-12,CUST-0209,Carlos Wilson,Corporate,South,SC,Online,Technology,Monitor,442.14,3,0.25,299.54,142.6,2025-05
+ORD-10756,2025-07-20,CUST-0097,Noah Moore,Consumer,South,GA,Online,Technology,Laptop Dock,1462.86,7,0.15,994.61,468.25,2025-07
+ORD-10108,2025-03-11,CUST-0147,Marcus Smith,Corporate,East,NY,Retail,Furniture,Standing Desk,1282.78,5,0.0,980.36,302.42,2025-03
+ORD-10122,2025-06-08,CUST-0148,Chloe Taylor,Consumer,South,TN,Retail,Office Supplies,Desk Organizer,91.25,2,0.05,56.94,34.31,2025-06
+ORD-10410,2025-05-15,CUST-0004,Malik Taylor,Consumer,South,NC,Online,Office Supplies,Desk Organizer,114.48,4,0.3,70.04,44.44,2025-05
+ORD-10193,2025-01-09,CUST-0134,Jordan Smith,Consumer,South,TN,Online,Office Supplies,Pens,169.19,4,0.05,97.39,71.8,2025-01
+ORD-10750,2025-01-22,CUST-0035,Emma Moore,Corporate,Central,MI,Online,Technology,Headset,464.02,2,0.1,298.44,165.58,2025-01
+ORD-10664,2025-09-12,CUST-0045,Noah Moore,Corporate,South,FL,Retail,Office Supplies,Printer Paper,175.27,5,0.15,115.88,59.39,2025-09
+ORD-10614,2025-05-23,CUST-0085,Noah Thomas,Home Office,South,TN,Online,Furniture,Conference Table,2189.28,7,0.0,1747.04,442.24,2025-05
+ORD-10087,2025-09-26,CUST-0022,Noah Lewis,Home Office,West,CO,Online,Furniture,Conference Table,1845.78,7,0.15,1328.58,517.2,2025-09
+ORD-10086,2025-04-04,CUST-0155,Chloe Thomas,Consumer,South,TN,Retail,Office Supplies,Printer Paper,204.22,5,0.1,139.37,64.85,2025-04
+ORD-10787,2025-12-30,CUST-0008,Nia Lee,Home Office,East,VA,Retail,Furniture,Filing Cabinet,2158.63,7,0.05,1877.92,280.71,2025-12
+ORD-10244,2025-07-13,CUST-0143,Nia Smith,Corporate,East,NJ,Retail,Furniture,Conference Table,405.35,2,0.3,287.65,117.7,2025-07
+ORD-10661,2025-01-17,CUST-0039,Lena Martinez,Corporate,South,TN,Online,Furniture,Standing Desk,1233.76,5,0.2,895.92,337.84,2025-01
+ORD-10113,2025-03-19,CUST-0123,Ethan Clark,Consumer,West,CO,Online,Technology,Webcam,941.26,4,0.05,611.78,329.48,2025-03
+ORD-10449,2025-05-06,CUST-0115,Chloe Taylor,Consumer,Central,MI,Retail,Technology,Laptop Dock,1206.3,5,0.2,881.97,324.33,2025-05
+ORD-10347,2025-06-23,CUST-0219,Nia Johnson,Home Office,East,VA,Online,Technology,Wireless Mouse,1876.78,7,0.0,1288.47,588.31,2025-06
+ORD-10223,2025-06-23,CUST-0155,Chloe Thomas,Consumer,East,NJ,Online,Technology,Laptop Dock,1128.85,6,0.2,643.31,485.54,2025-06
+ORD-10318,2025-03-28,CUST-0160,Emma Thomas,Corporate,West,AZ,Online,Office Supplies,Labels,140.99,4,0.3,84.31,56.68,2025-03
+ORD-10689,2025-04-15,CUST-0098,Diego Walker,Consumer,West,OR,Online,Office Supplies,Printer Paper,164.58,5,0.15,122.21,42.37,2025-04
+ORD-10548,2025-08-07,CUST-0131,Sophia Moore,Corporate,South,SC,Retail,Technology,Wireless Mouse,1662.07,7,0.0,1239.7,422.37,2025-08
+ORD-10307,2025-10-27,CUST-0067,Malik Moore,Home Office,East,VA,Retail,Office Supplies,Printer Paper,275.03,7,0.0,182.33,92.7,2025-10
+ORD-10749,2025-10-11,CUST-0069,Zoe Taylor,Consumer,South,SC,Retail,Furniture,Conference Table,234.91,1,0.0,174.62,60.29,2025-10
+ORD-10080,2025-08-07,CUST-0148,Chloe Taylor,Consumer,Central,MO,Retail,Technology,Monitor,1361.38,7,0.2,1003.49,357.89,2025-08
+ORD-10713,2025-04-02,CUST-0161,Ethan Brown,Corporate,South,TN,Retail,Office Supplies,Labels,74.1,2,0.2,48.31,25.79,2025-04
+ORD-10817,2025-11-12,CUST-0010,Diego Martinez,Corporate,West,AZ,Retail,Office Supplies,Printer Paper,141.78,4,0.25,96.05,45.73,2025-11
+ORD-10586,2025-09-26,CUST-0204,Zoe Martinez,Consumer,West,AZ,Retail,Technology,Headset,510.45,2,0.2,339.82,170.63,2025-09
+ORD-10196,2025-06-11,CUST-0020,Carlos Clark,Consumer,East,NY,Partner,Furniture,Filing Cabinet,1173.98,5,0.15,999.25,174.73,2025-06
+ORD-10261,2025-04-18,CUST-0175,Ethan Thomas,Home Office,South,SC,Retail,Office Supplies,Binder Set,76.51,3,0.3,43.34,33.17,2025-04
+ORD-10775,2025-05-01,CUST-0187,Carlos Garcia,Consumer,West,OR,Partner,Furniture,Standing Desk,560.54,3,0.25,419.35,141.19,2025-05
+ORD-10105,2025-08-30,CUST-0176,Andre Smith,Corporate,South,FL,Retail,Technology,Laptop Dock,127.92,1,0.2,89.3,38.62,2025-08
+ORD-10238,2025-09-30,CUST-0096,Emma Davis,Corporate,Central,IL,Partner,Office Supplies,Binder Set,208.79,4,0.0,140.91,67.88,2025-09
+ORD-10033,2025-06-23,CUST-0021,Noah Clark,Corporate,East,PA,Retail,Technology,Wireless Mouse,1242.11,4,0.0,806.35,435.76,2025-06
+ORD-10452,2025-02-24,CUST-0204,Zoe Martinez,Consumer,East,VA,Retail,Technology,Headset,1017.55,6,0.3,595.63,421.92,2025-02
+ORD-10049,2025-08-26,CUST-0150,Chloe Lewis,Home Office,East,MD,Retail,Office Supplies,Printer Paper,280.46,7,0.1,196.44,84.02,2025-08
+ORD-10702,2025-06-03,CUST-0136,Chloe Martinez,Home Office,West,OR,Online,Technology,Webcam,1396.52,5,0.0,1046.3,350.22,2025-06
+ORD-10202,2025-09-25,CUST-0200,Chloe Smith,Consumer,East,NY,Retail,Office Supplies,Pens,176.87,5,0.1,111.43,65.44,2025-09
+ORD-10699,2025-09-30,CUST-0012,Emma Garcia,Corporate,West,CA,Online,Technology,Wireless Mouse,562.59,3,0.0,309.84,252.75,2025-09
+ORD-10148,2025-03-01,CUST-0052,Nia Walker,Corporate,West,AZ,Online,Furniture,Standing Desk,1097.55,5,0.25,826.3,271.25,2025-03
+ORD-10525,2025-09-05,CUST-0071,Lena Lee,Consumer,Central,IL,Retail,Technology,Webcam,962.86,4,0.1,685.01,277.85,2025-09
+ORD-10810,2025-11-30,CUST-0220,Ethan Moore,Corporate,West,CO,Retail,Furniture,Standing Desk,1286.54,6,0.25,1033.96,252.58,2025-11
+ORD-10475,2025-10-24,CUST-0140,Zoe Wilson,Consumer,East,MD,Retail,Office Supplies,Labels,113.05,3,0.25,71.56,41.49,2025-10
+ORD-10417,2025-01-06,CUST-0214,Andre Smith,Home Office,South,GA,Online,Technology,Laptop Dock,1219.39,7,0.3,810.57,408.82,2025-01
+ORD-10570,2025-08-10,CUST-0126,Zoe Johnson,Consumer,Central,IL,Retail,Furniture,Standing Desk,1747.45,7,0.15,1184.19,563.26,2025-08
+ORD-10374,2025-06-11,CUST-0083,Carlos Martinez,Corporate,Central,OH,Retail,Office Supplies,Desk Organizer,240.61,5,0.0,167.21,73.4,2025-06
+ORD-10688,2025-07-30,CUST-0131,Sophia Moore,Corporate,East,NY,Partner,Technology,Laptop Dock,1276.21,6,0.15,885.57,390.64,2025-07
+ORD-10016,2025-01-16,CUST-0173,Diego Thomas,Consumer,Central,OH,Online,Technology,Webcam,1175.93,6,0.25,855.17,320.76,2025-01
+ORD-10304,2025-11-30,CUST-0198,Chloe Lewis,Consumer,South,NC,Retail,Furniture,Filing Cabinet,79.97,1,0.15,65.77,14.2,2025-11
+ORD-10559,2025-12-04,CUST-0175,Ethan Thomas,Corporate,South,FL,Retail,Technology,Wireless Mouse,575.83,3,0.15,358.59,217.24,2025-12
+ORD-10549,2025-07-21,CUST-0114,Andre Lewis,Home Office,West,CA,Online,Furniture,Conference Table,1833.35,7,0.2,1211.25,622.1,2025-07
+ORD-10293,2025-10-05,CUST-0210,Carlos Thomas,Consumer,Central,MO,Partner,Office Supplies,Printer Paper,79.92,2,0.1,51.87,28.05,2025-10
+ORD-10381,2025-01-20,CUST-0002,Ethan Johnson,Consumer,West,OR,Retail,Technology,Headset,174.61,1,0.15,122.63,51.98,2025-01
+ORD-10232,2025-06-12,CUST-0189,Noah Martinez,Consumer,South,GA,Online,Office Supplies,Labels,230.48,5,0.05,137.04,93.44,2025-06
+ORD-10325,2025-12-01,CUST-0215,Emma Lee,Consumer,East,NY,Online,Office Supplies,Pens,221.55,5,0.0,144.08,77.47,2025-12
+ORD-10114,2025-07-25,CUST-0101,Noah Taylor,Consumer,South,FL,Retail,Furniture,Office Chair,176.65,1,0.25,122.21,54.44,2025-07
+ORD-10447,2025-07-24,CUST-0070,Maya Lee,Corporate,West,CA,Retail,Furniture,Filing Cabinet,1877.74,6,0.05,1547.77,329.97,2025-07
+ORD-10085,2025-04-19,CUST-0139,Diego Walker,Corporate,East,VA,Online,Office Supplies,Binder Set,131.45,4,0.3,89.04,42.41,2025-04
+ORD-10132,2025-01-15,CUST-0122,Zoe Garcia,Home Office,South,FL,Online,Furniture,Filing Cabinet,1597.44,6,0.2,1143.7,453.74,2025-01
+ORD-10490,2025-11-07,CUST-0134,Jordan Smith,Corporate,East,VA,Online,Office Supplies,Pens,218.18,6,0.1,163.8,54.38,2025-11
+ORD-10801,2025-10-01,CUST-0003,Andre Thomas,Consumer,East,VA,Retail,Furniture,Bookcase,234.62,1,0.15,163.28,71.34,2025-10
+ORD-10482,2025-04-29,CUST-0183,Andre Lee,Corporate,South,TN,Retail,Office Supplies,Labels,270.43,7,0.05,149.31,121.12,2025-04
+ORD-10566,2025-06-10,CUST-0053,Lena Brown,Corporate,West,WA,Retail,Office Supplies,Pens,323.0,7,0.0,250.47,72.53,2025-06
+ORD-10773,2025-09-26,CUST-0002,Ethan Johnson,Home Office,Central,TX,Retail,Office Supplies,Labels,185.39,5,0.25,127.64,57.75,2025-09
+ORD-10276,2025-01-23,CUST-0107,Noah Moore,Home Office,West,CO,Online,Technology,Wireless Mouse,653.76,3,0.2,499.73,154.03,2025-01
+ORD-10829,2025-05-30,CUST-0190,Lena Thomas,Home Office,Central,MO,Online,Technology,Webcam,75.79,1,0.05,47.73,28.06,2025-05
+ORD-10111,2025-04-16,CUST-0061,Lena Walker,Consumer,East,NJ,Retail,Technology,Laptop Dock,1485.78,6,0.0,889.4,596.38,2025-04
+ORD-10800,2025-11-23,CUST-0098,Diego Walker,Home Office,South,NC,Retail,Furniture,Bookcase,632.66,2,0.1,466.29,166.37,2025-11
+ORD-10731,2025-08-04,CUST-0161,Ethan Brown,Home Office,South,SC,Retail,Furniture,Office Chair,68.88,1,0.2,51.18,17.7,2025-08
+ORD-10365,2025-08-15,CUST-0026,Carlos Wilson,Consumer,East,MD,Partner,Furniture,Office Chair,2023.06,7,0.05,1378.55,644.51,2025-08
+ORD-10026,2025-09-22,CUST-0142,Nia Brown,Consumer,South,SC,Online,Office Supplies,Desk Organizer,37.49,1,0.0,23.39,14.1,2025-09
+ORD-10051,2025-04-15,CUST-0168,Chloe Lee,Corporate,West,WA,Retail,Furniture,Office Chair,984.61,3,0.0,753.94,230.67,2025-04
+ORD-10733,2025-05-07,CUST-0203,Noah Smith,Corporate,East,NJ,Retail,Technology,Monitor,1368.1,6,0.1,870.49,497.61,2025-05
+ORD-10425,2025-01-20,CUST-0092,Carlos Lewis,Corporate,Central,MO,Online,Technology,Monitor,1663.55,7,0.1,1176.08,487.47,2025-01
+ORD-10281,2025-11-30,CUST-0061,Lena Walker,Home Office,South,NC,Online,Technology,Monitor,692.55,3,0.1,450.73,241.82,2025-11
+ORD-10065,2025-03-28,CUST-0091,Carlos Brown,Consumer,East,MD,Online,Office Supplies,Pens,124.02,3,0.0,88.91,35.11,2025-03
+ORD-10183,2025-02-18,CUST-0110,Maya Garcia,Corporate,South,TN,Retail,Furniture,Conference Table,1768.46,6,0.1,1479.33,289.13,2025-02
+ORD-10201,2025-05-15,CUST-0081,Ava Smith,Consumer,West,AZ,Retail,Office Supplies,Pens,74.72,2,0.05,58.23,16.49,2025-05
+ORD-10019,2025-09-16,CUST-0185,Noah Taylor,Consumer,East,NJ,Online,Office Supplies,Pens,319.24,7,0.05,220.96,98.28,2025-09
+ORD-10300,2025-05-14,CUST-0005,Diego Brown,Corporate,West,AZ,Retail,Technology,Wireless Mouse,1520.91,6,0.0,1041.25,479.66,2025-05
+ORD-10672,2025-10-31,CUST-0136,Chloe Martinez,Consumer,South,SC,Retail,Office Supplies,Labels,103.89,3,0.0,57.23,46.66,2025-10
+ORD-10052,2025-10-26,CUST-0043,Noah Wilson,Consumer,Central,MI,Retail,Furniture,Standing Desk,1185.09,4,0.0,794.85,390.24,2025-10
+ORD-10237,2025-07-07,CUST-0146,Zoe Lewis,Consumer,East,PA,Partner,Office Supplies,Labels,251.3,7,0.1,164.04,87.26,2025-07
+ORD-10028,2025-10-01,CUST-0182,Emma Taylor,Home Office,East,NY,Online,Furniture,Office Chair,214.76,1,0.25,165.07,49.69,2025-10
+ORD-10771,2025-12-22,CUST-0144,Ava Smith,Consumer,South,FL,Online,Furniture,Filing Cabinet,363.99,2,0.1,299.53,64.46,2025-12
+ORD-10823,2025-07-04,CUST-0031,Maya Martinez,Corporate,East,VA,Online,Furniture,Conference Table,1816.44,6,0.0,1597.92,218.52,2025-07
+ORD-10443,2025-04-14,CUST-0030,Diego Johnson,Consumer,East,MD,Retail,Office Supplies,Desk Organizer,72.58,2,0.15,43.53,29.05,2025-04
+ORD-10574,2025-06-11,CUST-0011,Malik Thomas,Consumer,Central,TX,Online,Furniture,Filing Cabinet,2117.38,7,0.0,1643.97,473.41,2025-06
+ORD-10533,2025-12-25,CUST-0035,Emma Moore,Home Office,South,GA,Online,Technology,Monitor,1174.19,5,0.0,782.6,391.59,2025-12
+ORD-10271,2025-09-03,CUST-0065,Marcus Thomas,Consumer,South,TN,Retail,Furniture,Bookcase,408.07,1,0.1,351.98,56.09,2025-09
+ORD-10296,2025-01-01,CUST-0115,Chloe Taylor,Consumer,East,MD,Online,Technology,Wireless Mouse,1102.74,6,0.25,772.76,329.98,2025-01
+ORD-10308,2025-02-22,CUST-0122,Zoe Garcia,Consumer,East,NJ,Online,Furniture,Bookcase,2317.92,7,0.0,1515.62,802.3,2025-02
+ORD-10714,2025-07-19,CUST-0169,Andre Davis,Home Office,West,AZ,Retail,Technology,Laptop Dock,1333.58,7,0.25,839.14,494.44,2025-07
+ORD-10316,2025-08-31,CUST-0146,Zoe Lewis,Corporate,South,TN,Online,Technology,Monitor,1666.01,7,0.05,1206.76,459.25,2025-08
+ORD-10498,2025-04-29,CUST-0083,Carlos Martinez,Corporate,West,WA,Online,Office Supplies,Labels,149.45,4,0.15,89.89,59.56,2025-04
+ORD-10468,2025-02-27,CUST-0132,Nia Smith,Consumer,South,FL,Retail,Furniture,Standing Desk,190.03,1,0.15,155.94,34.09,2025-02
+ORD-10496,2025-05-21,CUST-0091,Carlos Brown,Home Office,South,SC,Online,Furniture,Filing Cabinet,343.25,1,0.25,295.27,47.98,2025-05
+ORD-10021,2025-11-06,CUST-0111,Sophia Clark,Consumer,South,NC,Retail,Office Supplies,Labels,217.13,5,0.05,125.95,91.18,2025-11
+ORD-10218,2025-10-26,CUST-0022,Noah Lewis,Corporate,South,TN,Retail,Office Supplies,Printer Paper,248.97,5,0.05,162.38,86.59,2025-10
+ORD-10784,2025-11-18,CUST-0027,Malik Thomas,Home Office,Central,MI,Retail,Office Supplies,Binder Set,161.53,3,0.0,121.16,40.37,2025-11
+ORD-10160,2025-03-10,CUST-0173,Diego Thomas,Home Office,South,GA,Retail,Technology,Headset,415.89,2,0.0,232.47,183.42,2025-03
+ORD-10790,2025-11-27,CUST-0003,Andre Thomas,Corporate,South,GA,Online,Office Supplies,Labels,130.2,3,0.0,97.35,32.85,2025-11
+ORD-10850,2025-03-29,CUST-0134,Jordan Smith,Consumer,West,CA,Retail,Furniture,Standing Desk,2249.3,7,0.0,1545.25,704.05,2025-03
+ORD-10436,2025-01-24,CUST-0028,Lena Clark,Consumer,East,NY,Retail,Office Supplies,Printer Paper,67.22,2,0.0,43.28,23.94,2025-01
+ORD-10406,2025-04-19,CUST-0111,Sophia Clark,Home Office,Central,IL,Partner,Office Supplies,Labels,144.72,4,0.2,112.87,31.85,2025-04
+ORD-10367,2025-06-26,CUST-0104,Emma Clark,Consumer,South,NC,Retail,Furniture,Bookcase,772.62,3,0.2,538.04,234.58,2025-06
+ORD-10550,2025-06-06,CUST-0150,Chloe Lewis,Consumer,East,NJ,Retail,Furniture,Standing Desk,1697.33,6,0.1,1308.14,389.19,2025-06
+ORD-10819,2025-04-23,CUST-0147,Marcus Smith,Corporate,South,GA,Retail,Technology,Headset,443.25,2,0.15,317.8,125.45,2025-04
+ORD-10718,2025-07-15,CUST-0109,Jordan Moore,Corporate,West,CA,Online,Technology,Webcam,630.5,2,0.0,371.74,258.76,2025-07
+ORD-10610,2025-01-18,CUST-0189,Noah Martinez,Corporate,Central,MI,Retail,Technology,Headset,1357.26,6,0.1,860.23,497.03,2025-01
+ORD-10177,2025-10-06,CUST-0158,Sophia Walker,Corporate,Central,OH,Retail,Technology,Monitor,1415.51,7,0.15,1001.91,413.6,2025-10
+ORD-10486,2025-12-25,CUST-0052,Nia Walker,Consumer,West,WA,Online,Furniture,Bookcase,1781.25,7,0.1,1412.32,368.93,2025-12
+ORD-10691,2025-05-21,CUST-0220,Ethan Moore,Corporate,Central,OH,Retail,Furniture,Bookcase,470.22,2,0.0,324.5,145.72,2025-05
+ORD-10079,2025-08-04,CUST-0125,Sophia Johnson,Consumer,South,TN,Retail,Office Supplies,Labels,195.6,6,0.3,119.92,75.68,2025-08
+ORD-10100,2025-03-10,CUST-0031,Maya Martinez,Corporate,South,FL,Online,Technology,Laptop Dock,1483.0,7,0.15,1150.35,332.65,2025-03
+ORD-10324,2025-04-02,CUST-0202,Diego Moore,Corporate,East,PA,Online,Technology,Wireless Mouse,1029.58,6,0.3,707.1,322.48,2025-04
+ORD-10259,2025-10-02,CUST-0039,Lena Martinez,Consumer,West,WA,Retail,Office Supplies,Printer Paper,286.86,7,0.1,209.18,77.68,2025-10
+ORD-10625,2025-10-08,CUST-0133,Emma Thomas,Corporate,East,NY,Online,Office Supplies,Pens,75.9,2,0.3,50.65,25.25,2025-10
+ORD-10562,2025-08-17,CUST-0010,Diego Martinez,Consumer,South,FL,Partner,Technology,Wireless Mouse,1522.99,7,0.1,1187.54,335.45,2025-08
+ORD-10822,2025-09-06,CUST-0147,Marcus Smith,Corporate,West,AZ,Retail,Office Supplies,Pens,86.28,2,0.05,60.0,26.28,2025-09
+ORD-10402,2025-11-03,CUST-0172,Malik Martinez,Corporate,East,MD,Online,Furniture,Office Chair,771.43,3,0.1,651.44,119.99,2025-11
+ORD-10752,2025-08-13,CUST-0033,Emma Martinez,Corporate,West,WA,Retail,Technology,Monitor,451.79,2,0.25,313.63,138.16,2025-08
+ORD-10721,2025-03-02,CUST-0031,Maya Martinez,Consumer,East,NJ,Online,Office Supplies,Printer Paper,135.12,4,0.25,79.6,55.52,2025-03
+ORD-10221,2025-04-14,CUST-0029,Lena Lee,Corporate,West,WA,Retail,Office Supplies,Desk Organizer,140.57,4,0.15,81.64,58.93,2025-04
+ORD-10188,2025-10-26,CUST-0084,Sophia Brown,Consumer,West,OR,Online,Furniture,Filing Cabinet,1597.8,6,0.15,1151.2,446.6,2025-10
+ORD-10458,2025-02-06,CUST-0140,Zoe Wilson,Consumer,Central,MI,Partner,Furniture,Filing Cabinet,714.6,3,0.2,473.26,241.34,2025-02
+ORD-10608,2025-09-17,CUST-0114,Andre Lewis,Consumer,East,MD,Partner,Furniture,Bookcase,1566.57,6,0.2,1291.7,274.87,2025-09
+ORD-10206,2025-10-30,CUST-0059,Chloe Moore,Corporate,East,NJ,Retail,Technology,Webcam,1486.58,6,0.05,1066.73,419.85,2025-10
+ORD-10753,2025-07-18,CUST-0019,Nia Lee,Consumer,South,TN,Retail,Office Supplies,Desk Organizer,293.84,6,0.05,174.06,119.78,2025-07
+ORD-10745,2025-10-22,CUST-0175,Ethan Thomas,Home Office,South,NC,Online,Office Supplies,Desk Organizer,151.8,4,0.25,90.23,61.57,2025-10
+ORD-10366,2025-03-06,CUST-0115,Chloe Taylor,Consumer,South,SC,Retail,Office Supplies,Printer Paper,90.08,2,0.0,65.61,24.47,2025-03
+ORD-10630,2025-06-08,CUST-0081,Ava Smith,Home Office,South,GA,Partner,Technology,Monitor,599.55,3,0.2,458.83,140.72,2025-06
+ORD-10649,2025-02-27,CUST-0212,Maya Lewis,Consumer,West,WA,Online,Office Supplies,Labels,200.53,5,0.15,120.42,80.11,2025-02
+ORD-10638,2025-08-04,CUST-0066,Jordan Wilson,Corporate,South,TN,Online,Technology,Wireless Mouse,1689.39,7,0.1,1048.39,641.0,2025-08
+ORD-10588,2025-10-08,CUST-0022,Noah Lewis,Home Office,South,FL,Retail,Office Supplies,Desk Organizer,66.73,1,0.0,41.98,24.75,2025-10
+ORD-10230,2025-07-16,CUST-0039,Lena Martinez,Home Office,West,CA,Online,Technology,Wireless Mouse,1447.36,6,0.05,1096.04,351.32,2025-07
+ORD-10451,2025-04-17,CUST-0212,Maya Lewis,Home Office,Central,IL,Online,Office Supplies,Binder Set,45.43,1,0.1,31.58,13.85,2025-04
+ORD-10513,2025-05-31,CUST-0185,Noah Taylor,Consumer,West,WA,Retail,Office Supplies,Printer Paper,329.26,7,0.0,193.85,135.41,2025-05
+ORD-10369,2025-06-11,CUST-0005,Diego Brown,Consumer,East,MD,Online,Furniture,Filing Cabinet,914.78,3,0.25,764.1,150.68,2025-06
+ORD-10287,2025-02-05,CUST-0036,Ethan Lewis,Consumer,East,NY,Online,Furniture,Filing Cabinet,959.37,3,0.0,765.71,193.66,2025-02
+ORD-10063,2025-06-05,CUST-0081,Ava Smith,Home Office,South,FL,Online,Technology,Headset,187.7,1,0.05,145.54,42.16,2025-06
+ORD-10092,2025-10-30,CUST-0178,Noah Thomas,Home Office,East,VA,Partner,Furniture,Conference Table,483.89,2,0.2,335.75,148.14,2025-10
+ORD-10837,2025-04-17,CUST-0178,Noah Thomas,Consumer,East,NY,Online,Technology,Webcam,667.27,3,0.25,380.27,287.0,2025-04
+ORD-10467,2025-11-14,CUST-0037,Noah Thomas,Consumer,West,CA,Retail,Furniture,Conference Table,767.4,3,0.05,539.02,228.38,2025-11
+ORD-10104,2025-10-12,CUST-0002,Ethan Johnson,Corporate,South,SC,Online,Technology,Wireless Mouse,1156.09,6,0.2,878.55,277.54,2025-10
+ORD-10152,2025-10-26,CUST-0062,Emma Johnson,Home Office,West,WA,Online,Technology,Webcam,663.19,3,0.3,372.84,290.35,2025-10
+ORD-10056,2025-01-29,CUST-0010,Diego Martinez,Consumer,South,NC,Online,Technology,Laptop Dock,1043.89,5,0.1,662.04,381.85,2025-01
+ORD-10073,2025-08-06,CUST-0102,Marcus Taylor,Consumer,East,NY,Retail,Furniture,Bookcase,1734.62,6,0.05,1434.6,300.02,2025-08
+ORD-10843,2025-04-29,CUST-0201,Nia Smith,Consumer,East,NJ,Retail,Office Supplies,Labels,159.19,4,0.1,109.61,49.58,2025-04
+ORD-10110,2025-06-16,CUST-0156,Lena Clark,Consumer,East,NJ,Online,Technology,Wireless Mouse,1259.1,6,0.1,751.21,507.89,2025-06
+ORD-10075,2025-06-28,CUST-0152,Marcus Clark,Corporate,Central,TX,Online,Office Supplies,Pens,275.71,7,0.1,153.19,122.52,2025-06
+ORD-10805,2025-11-28,CUST-0163,Maya Martinez,Home Office,South,TN,Retail,Office Supplies,Printer Paper,45.86,1,0.05,28.46,17.4,2025-11
+ORD-10531,2025-07-03,CUST-0132,Nia Smith,Home Office,East,NY,Online,Technology,Webcam,839.36,4,0.15,499.67,339.69,2025-07
+ORD-10317,2025-11-20,CUST-0161,Ethan Brown,Consumer,South,SC,Partner,Office Supplies,Desk Organizer,191.0,5,0.1,124.24,66.76,2025-11
+ORD-10302,2025-11-19,CUST-0182,Emma Taylor,Corporate,West,WA,Partner,Furniture,Office Chair,1858.14,6,0.05,1578.76,279.38,2025-11
+ORD-10831,2025-01-19,CUST-0055,Maya Thomas,Consumer,South,GA,Retail,Furniture,Office Chair,1457.79,4,0.0,1063.25,394.54,2025-01
+ORD-10171,2025-01-17,CUST-0024,Diego Wilson,Consumer,South,SC,Retail,Furniture,Standing Desk,1602.83,6,0.0,1195.47,407.36,2025-01
+ORD-10088,2025-09-21,CUST-0069,Zoe Taylor,Home Office,South,FL,Online,Technology,Monitor,1398.06,6,0.1,1050.72,347.34,2025-09
+ORD-10384,2025-12-01,CUST-0054,Andre Clark,Consumer,West,AZ,Partner,Technology,Monitor,1348.99,6,0.1,815.75,533.24,2025-12
+ORD-10483,2025-01-02,CUST-0056,Noah Walker,Consumer,West,WA,Partner,Office Supplies,Printer Paper,255.49,7,0.15,162.29,93.2,2025-01
+ORD-10567,2025-01-31,CUST-0051,Carlos Moore,Consumer,Central,MO,Partner,Furniture,Bookcase,546.45,3,0.0,383.54,162.91,2025-01
+ORD-10378,2025-06-06,CUST-0165,Noah Taylor,Home Office,East,NY,Retail,Office Supplies,Binder Set,55.06,2,0.0,41.51,13.55,2025-06
+ORD-10350,2025-10-14,CUST-0037,Noah Thomas,Consumer,East,NY,Online,Technology,Headset,946.56,3,0.0,681.74,264.82,2025-10
+ORD-10382,2025-04-13,CUST-0207,Chloe Davis,Consumer,South,NC,Retail,Office Supplies,Labels,263.29,7,0.1,151.79,111.5,2025-04
+ORD-10327,2025-04-24,CUST-0053,Lena Brown,Corporate,South,TN,Online,Technology,Wireless Mouse,575.78,2,0.05,385.21,190.57,2025-04
+ORD-10620,2025-05-18,CUST-0031,Maya Martinez,Consumer,Central,IL,Online,Office Supplies,Labels,257.1,6,0.1,177.74,79.36,2025-05
+ORD-10224,2025-04-09,CUST-0045,Noah Moore,Corporate,Central,IL,Partner,Furniture,Standing Desk,1314.09,5,0.1,983.49,330.6,2025-04
+ORD-10349,2025-11-15,CUST-0040,Emma Clark,Consumer,West,WA,Partner,Technology,Webcam,1193.41,5,0.15,843.65,349.76,2025-11
+ORD-10589,2025-01-30,CUST-0185,Noah Taylor,Corporate,West,OR,Online,Office Supplies,Pens,205.94,5,0.05,134.71,71.23,2025-01
+ORD-10471,2025-07-27,CUST-0163,Maya Martinez,Consumer,East,PA,Retail,Technology,Wireless Mouse,1068.38,5,0.25,643.58,424.8,2025-07
+ORD-10208,2025-03-16,CUST-0214,Andre Smith,Corporate,South,SC,Online,Office Supplies,Labels,268.09,7,0.15,162.53,105.56,2025-03
+ORD-10119,2025-01-03,CUST-0055,Maya Thomas,Consumer,South,NC,Partner,Technology,Wireless Mouse,1717.28,7,0.1,1334.18,383.1,2025-01
+ORD-10816,2025-08-22,CUST-0185,Noah Taylor,Consumer,West,WA,Retail,Office Supplies,Labels,128.83,3,0.0,73.6,55.23,2025-08
+ORD-10684,2025-11-26,CUST-0211,Noah Taylor,Home Office,East,VA,Retail,Office Supplies,Printer Paper,205.16,6,0.2,148.05,57.11,2025-11
+ORD-10846,2025-02-22,CUST-0002,Ethan Johnson,Corporate,Central,IL,Partner,Furniture,Conference Table,804.62,4,0.3,586.63,217.99,2025-02
+ORD-10039,2025-08-17,CUST-0061,Lena Walker,Home Office,East,PA,Online,Technology,Wireless Mouse,2002.23,7,0.05,1457.38,544.85,2025-08
+ORD-10253,2025-08-22,CUST-0042,Sophia Lewis,Corporate,Central,MI,Retail,Furniture,Standing Desk,622.24,3,0.3,502.03,120.21,2025-08
+ORD-10767,2025-03-23,CUST-0135,Carlos Brown,Home Office,South,FL,Online,Office Supplies,Labels,166.07,4,0.2,109.65,56.42,2025-03
+ORD-10499,2025-12-14,CUST-0204,Zoe Martinez,Consumer,South,GA,Online,Furniture,Office Chair,2081.66,7,0.1,1501.86,579.8,2025-12
+ORD-10228,2025-05-09,CUST-0128,Marcus Thomas,Consumer,South,GA,Retail,Technology,Monitor,1332.39,5,0.0,808.18,524.21,2025-05
+ORD-10166,2025-01-12,CUST-0180,Maya Walker,Corporate,West,CA,Retail,Technology,Monitor,1589.24,7,0.05,1043.58,545.66,2025-01
+ORD-10783,2025-10-10,CUST-0028,Lena Clark,Consumer,West,WA,Retail,Furniture,Conference Table,680.38,2,0.1,493.56,186.82,2025-10
+ORD-10142,2025-07-21,CUST-0048,Chloe Thomas,Home Office,Central,OH,Online,Technology,Webcam,817.42,3,0.1,566.68,250.74,2025-07
+ORD-10282,2025-09-07,CUST-0108,Marcus Moore,Consumer,South,FL,Online,Technology,Wireless Mouse,665.75,2,0.05,407.89,257.86,2025-09
+ORD-10007,2025-09-20,CUST-0019,Nia Lee,Consumer,South,GA,Retail,Furniture,Standing Desk,936.55,3,0.05,721.83,214.72,2025-09
+ORD-10510,2025-06-28,CUST-0053,Lena Brown,Consumer,Central,IL,Partner,Technology,Headset,1580.26,7,0.1,998.3,581.96,2025-06
+ORD-10331,2025-07-21,CUST-0121,Jordan Moore,Corporate,South,NC,Online,Office Supplies,Desk Organizer,254.58,6,0.05,165.08,89.5,2025-07
+ORD-10757,2025-04-27,CUST-0163,Maya Martinez,Consumer,South,TN,Retail,Technology,Headset,1847.65,7,0.0,1075.15,772.5,2025-04
+ORD-10502,2025-09-19,CUST-0144,Ava Smith,Home Office,South,NC,Partner,Furniture,Standing Desk,782.31,2,0.0,568.38,213.93,2025-09
+ORD-10493,2025-06-20,CUST-0166,Lena Lee,Consumer,West,CA,Retail,Technology,Webcam,1413.08,6,0.1,928.36,484.72,2025-06
+ORD-10001,2025-05-28,CUST-0020,Carlos Clark,Consumer,Central,IL,Online,Office Supplies,Printer Paper,244.25,6,0.15,182.9,61.35,2025-05
+ORD-10154,2025-04-08,CUST-0065,Marcus Thomas,Consumer,South,SC,Online,Furniture,Office Chair,1273.95,4,0.0,1030.17,243.78,2025-04
+ORD-10258,2025-02-08,CUST-0023,Noah Taylor,Consumer,Central,OH,Online,Office Supplies,Pens,231.46,6,0.15,139.32,92.14,2025-02
+ORD-10796,2025-11-20,CUST-0065,Marcus Thomas,Consumer,South,TN,Online,Technology,Monitor,515.11,2,0.0,369.96,145.15,2025-11
+ORD-10585,2025-05-05,CUST-0089,Ava Garcia,Consumer,South,FL,Retail,Office Supplies,Pens,147.0,5,0.3,90.19,56.81,2025-05
+ORD-10838,2025-10-05,CUST-0044,Noah Walker,Consumer,East,PA,Online,Technology,Wireless Mouse,1444.77,6,0.05,1005.36,439.41,2025-10
+ORD-10651,2025-10-13,CUST-0108,Marcus Moore,Consumer,East,MD,Online,Furniture,Standing Desk,1634.29,7,0.25,1391.0,243.29,2025-10
+ORD-10806,2025-08-12,CUST-0172,Malik Martinez,Consumer,South,TN,Online,Office Supplies,Desk Organizer,245.46,5,0.05,169.35,76.11,2025-08
+ORD-10011,2025-03-28,CUST-0116,Sophia Brown,Corporate,East,NY,Partner,Office Supplies,Desk Organizer,178.97,4,0.0,109.6,69.37,2025-03
+ORD-10605,2025-07-07,CUST-0182,Emma Taylor,Consumer,East,PA,Retail,Furniture,Filing Cabinet,1224.76,3,0.1,1060.14,164.62,2025-07
+ORD-10537,2025-04-16,CUST-0101,Noah Taylor,Corporate,Central,MO,Retail,Technology,Headset,271.87,1,0.3,207.02,64.85,2025-04
+ORD-10045,2025-08-18,CUST-0015,Malik Taylor,Corporate,South,FL,Online,Technology,Wireless Mouse,854.32,3,0.05,515.93,338.39,2025-08
+ORD-10631,2025-04-13,CUST-0163,Maya Martinez,Consumer,West,AZ,Online,Technology,Webcam,417.78,2,0.2,240.99,176.79,2025-04
+ORD-10242,2025-12-07,CUST-0129,Carlos Wilson,Consumer,Central,OH,Retail,Technology,Headset,367.22,1,0.1,230.4,136.82,2025-12
+ORD-10532,2025-06-23,CUST-0037,Noah Thomas,Corporate,West,WA,Partner,Office Supplies,Printer Paper,210.57,4,0.0,129.92,80.65,2025-06
+ORD-10130,2025-09-09,CUST-0140,Zoe Wilson,Home Office,South,GA,Retail,Technology,Wireless Mouse,1851.79,6,0.0,1217.39,634.4,2025-09
+ORD-10233,2025-01-24,CUST-0005,Diego Brown,Corporate,South,NC,Online,Furniture,Filing Cabinet,666.7,2,0.15,486.22,180.48,2025-01
+ORD-10250,2025-03-12,CUST-0010,Diego Martinez,Corporate,East,MD,Online,Furniture,Filing Cabinet,1541.8,5,0.1,1086.1,455.7,2025-03
+ORD-10738,2025-01-24,CUST-0074,Lena Martinez,Consumer,West,CA,Online,Furniture,Conference Table,1253.97,4,0.0,976.84,277.13,2025-01
+ORD-10176,2025-06-28,CUST-0102,Marcus Taylor,Consumer,West,WA,Retail,Furniture,Office Chair,1485.7,7,0.2,1018.9,466.8,2025-06
+ORD-10708,2025-03-13,CUST-0126,Zoe Johnson,Consumer,West,AZ,Online,Office Supplies,Desk Organizer,348.84,7,0.0,246.55,102.29,2025-03
+ORD-10010,2025-10-30,CUST-0021,Noah Clark,Consumer,South,NC,Online,Furniture,Conference Table,294.19,1,0.0,198.48,95.71,2025-10
+ORD-10020,2025-08-01,CUST-0100,Zoe Moore,Corporate,West,WA,Online,Furniture,Office Chair,2018.5,7,0.0,1525.77,492.73,2025-08
+ORD-10577,2025-07-18,CUST-0204,Zoe Martinez,Consumer,East,VA,Retail,Technology,Wireless Mouse,505.96,2,0.2,297.9,208.06,2025-07
+ORD-10423,2025-07-30,CUST-0169,Andre Davis,Consumer,Central,IL,Retail,Furniture,Office Chair,1563.63,5,0.05,1332.63,231.0,2025-07
+ORD-10292,2025-12-31,CUST-0059,Chloe Moore,Consumer,Central,OH,Online,Technology,Monitor,382.85,1,0.15,217.17,165.68,2025-12
+ORD-10655,2025-07-11,CUST-0122,Zoe Garcia,Home Office,Central,TX,Online,Office Supplies,Printer Paper,58.11,2,0.3,35.0,23.11,2025-07
+ORD-10227,2025-05-28,CUST-0178,Noah Thomas,Consumer,Central,IL,Partner,Furniture,Bookcase,937.53,3,0.1,780.52,157.01,2025-05
+ORD-10617,2025-08-19,CUST-0055,Maya Thomas,Consumer,Central,TX,Retail,Furniture,Office Chair,1745.57,6,0.05,1360.76,384.81,2025-08
+ORD-10524,2025-08-20,CUST-0182,Emma Taylor,Consumer,South,FL,Online,Technology,Monitor,1604.24,7,0.0,1122.45,481.79,2025-08
+ORD-10383,2025-11-08,CUST-0209,Carlos Wilson,Consumer,East,VA,Online,Furniture,Office Chair,2091.91,7,0.05,1500.9,591.01,2025-11
+ORD-10704,2025-01-06,CUST-0038,Carlos Clark,Corporate,South,SC,Online,Technology,Laptop Dock,643.07,2,0.0,432.15,210.92,2025-01
+ORD-10758,2025-12-25,CUST-0085,Noah Thomas,Corporate,West,CA,Retail,Office Supplies,Labels,56.72,2,0.2,35.02,21.7,2025-12
+ORD-10848,2025-06-30,CUST-0012,Emma Garcia,Home Office,Central,IL,Online,Office Supplies,Pens,209.31,5,0.15,150.87,58.44,2025-06
+ORD-10799,2025-10-07,CUST-0070,Maya Lee,Consumer,West,WA,Online,Technology,Laptop Dock,1149.69,6,0.25,893.1,256.59,2025-10
+ORD-10760,2025-09-08,CUST-0161,Ethan Brown,Consumer,East,NY,Online,Technology,Webcam,960.8,4,0.15,586.18,374.62,2025-09
+ORD-10696,2025-05-17,CUST-0056,Noah Walker,Corporate,East,PA,Online,Furniture,Standing Desk,492.7,2,0.3,380.12,112.58,2025-05
+ORD-10248,2025-08-24,CUST-0092,Carlos Lewis,Corporate,South,TN,Online,Furniture,Filing Cabinet,1671.7,7,0.25,1438.85,232.85,2025-08
+ORD-10071,2025-01-09,CUST-0176,Andre Smith,Corporate,Central,MI,Online,Office Supplies,Binder Set,244.6,5,0.0,148.62,95.98,2025-01
+ORD-10299,2025-12-07,CUST-0063,Marcus Taylor,Corporate,South,SC,Online,Furniture,Filing Cabinet,1776.88,6,0.1,1529.45,247.43,2025-12
+ORD-10678,2025-05-13,CUST-0019,Nia Lee,Consumer,South,FL,Retail,Furniture,Standing Desk,960.84,4,0.2,832.17,128.67,2025-05
+ORD-10547,2025-06-23,CUST-0095,Malik Brown,Consumer,South,GA,Online,Office Supplies,Pens,94.33,3,0.2,52.04,42.29,2025-06
+ORD-10377,2025-03-20,CUST-0163,Maya Martinez,Consumer,West,OR,Retail,Office Supplies,Labels,170.83,4,0.05,113.81,57.02,2025-03
+ORD-10711,2025-02-08,CUST-0150,Chloe Lewis,Home Office,East,MD,Retail,Office Supplies,Pens,12.0,1,0.2,9.03,2.97,2025-02
+ORD-10278,2025-12-11,CUST-0173,Diego Thomas,Home Office,West,AZ,Online,Technology,Webcam,220.83,1,0.1,147.04,73.79,2025-12
+ORD-10761,2025-08-22,CUST-0039,Lena Martinez,Consumer,West,AZ,Retail,Office Supplies,Labels,172.96,4,0.05,113.46,59.5,2025-08
+ORD-10529,2025-03-07,CUST-0202,Diego Moore,Home Office,West,CA,Online,Office Supplies,Printer Paper,211.85,6,0.25,126.48,85.37,2025-03
+ORD-10491,2025-09-21,CUST-0206,Ava Smith,Consumer,Central,IL,Online,Furniture,Filing Cabinet,512.14,3,0.3,401.47,110.67,2025-09
+ORD-10393,2025-09-24,CUST-0081,Ava Smith,Corporate,East,PA,Partner,Office Supplies,Pens,169.13,4,0.15,101.65,67.48,2025-09
+ORD-10705,2025-10-04,CUST-0029,Lena Lee,Consumer,West,WA,Online,Office Supplies,Labels,134.38,4,0.1,101.57,32.81,2025-10
+ORD-10815,2025-01-11,CUST-0172,Malik Martinez,Corporate,Central,OH,Online,Furniture,Filing Cabinet,1886.8,7,0.15,1340.24,546.56,2025-01
+ORD-10581,2025-12-05,CUST-0021,Noah Clark,Corporate,Central,OH,Online,Furniture,Office Chair,997.25,3,0.15,859.67,137.58,2025-12
+ORD-10454,2025-12-06,CUST-0006,Marcus Wilson,Consumer,South,NC,Online,Technology,Wireless Mouse,870.67,4,0.15,623.92,246.75,2025-12
+ORD-10834,2025-01-14,CUST-0032,Diego Clark,Consumer,West,AZ,Online,Technology,Headset,256.0,1,0.15,194.85,61.15,2025-01
+ORD-10534,2025-07-14,CUST-0063,Marcus Taylor,Home Office,East,VA,Retail,Office Supplies,Desk Organizer,258.85,6,0.1,171.34,87.51,2025-07
+ORD-10656,2025-01-06,CUST-0118,Emma Clark,Consumer,East,NJ,Online,Furniture,Filing Cabinet,733.39,4,0.15,618.86,114.53,2025-01
+ORD-10185,2025-12-04,CUST-0110,Maya Garcia,Corporate,Central,IL,Online,Office Supplies,Labels,71.97,2,0.2,54.07,17.9,2025-12
+ORD-10804,2025-12-14,CUST-0203,Noah Smith,Consumer,South,NC,Retail,Furniture,Office Chair,1383.93,5,0.0,1076.16,307.77,2025-12
+ORD-10725,2025-03-05,CUST-0173,Diego Thomas,Corporate,East,NJ,Online,Office Supplies,Desk Organizer,334.78999999999996,7,0.1,189.75,145.04,2025-03
+ORD-10845,2025-03-24,CUST-0002,Ethan Johnson,Consumer,South,FL,Partner,Technology,Monitor,807.07,4,0.2,525.15,281.92,2025-03
+ORD-10461,2025-12-04,CUST-0160,Emma Thomas,Consumer,West,OR,Partner,Furniture,Filing Cabinet,1852.81,6,0.0,1430.83,421.98,2025-12
+ORD-10290,2025-07-29,CUST-0105,Ava Wilson,Consumer,South,TN,Partner,Office Supplies,Labels,82.61,2,0.3,53.92,28.69,2025-07
+ORD-10772,2025-02-06,CUST-0218,Sophia Martinez,Consumer,West,CO,Retail,Technology,Wireless Mouse,632.85,3,0.15,475.55,157.3,2025-02
+ORD-10712,2025-11-22,CUST-0115,Chloe Taylor,Consumer,East,NY,Retail,Technology,Wireless Mouse,1108.36,7,0.3,857.95,250.41,2025-11
+ORD-10180,2025-01-03,CUST-0111,Sophia Clark,Corporate,West,CO,Retail,Furniture,Office Chair,365.3,1,0.0,244.43,120.87,2025-01
+ORD-10064,2025-12-14,CUST-0213,Ava Martinez,Corporate,South,NC,Online,Technology,Webcam,884.03,3,0.0,537.51,346.52,2025-12
+ORD-10795,2025-08-05,CUST-0095,Malik Brown,Consumer,Central,MO,Retail,Technology,Laptop Dock,1208.58,4,0.0,714.14,494.44,2025-08
+ORD-10106,2025-02-01,CUST-0174,Chloe Lee,Corporate,West,OR,Online,Furniture,Standing Desk,292.65,1,0.1,249.69,42.96,2025-02
+ORD-10730,2025-11-08,CUST-0145,Carlos Walker,Consumer,South,TN,Online,Technology,Wireless Mouse,792.91,4,0.3,602.24,190.67,2025-11
+ORD-10434,2025-04-16,CUST-0029,Lena Lee,Consumer,West,AZ,Online,Office Supplies,Printer Paper,241.9,7,0.2,170.21,71.69,2025-04
+ORD-10575,2025-04-12,CUST-0002,Ethan Johnson,Consumer,West,OR,Online,Technology,Headset,1436.16,7,0.1,988.95,447.21,2025-04
+ORD-10257,2025-01-16,CUST-0150,Chloe Lewis,Consumer,South,TN,Online,Furniture,Office Chair,384.11,1,0.0,268.17,115.94,2025-01
+ORD-10215,2025-05-18,CUST-0163,Maya Martinez,Home Office,South,FL,Retail,Furniture,Filing Cabinet,979.85,3,0.0,755.2,224.65,2025-05
+ORD-10070,2025-10-30,CUST-0104,Emma Clark,Consumer,West,WA,Online,Furniture,Filing Cabinet,829.92,3,0.2,668.44,161.48,2025-10
+ORD-10191,2025-02-23,CUST-0151,Marcus Walker,Corporate,South,SC,Retail,Office Supplies,Binder Set,238.76,7,0.2,167.57,71.19,2025-02
+ORD-10314,2025-04-25,CUST-0062,Emma Johnson,Consumer,East,MD,Online,Office Supplies,Printer Paper,317.4,7,0.0,209.55,107.85,2025-04
+ORD-10777,2025-04-23,CUST-0094,Maya Lewis,Consumer,West,AZ,Online,Technology,Wireless Mouse,242.92,2,0.1,169.97,72.95,2025-04
+ORD-10518,2025-08-02,CUST-0015,Malik Taylor,Consumer,East,NY,Retail,Technology,Wireless Mouse,1765.23,7,0.1,1240.03,525.2,2025-08
+ORD-10226,2025-10-29,CUST-0068,Lena Garcia,Corporate,Central,IL,Online,Furniture,Office Chair,1675.35,5,0.0,1222.46,452.89,2025-10
+ORD-10619,2025-01-20,CUST-0014,Noah Taylor,Home Office,West,CA,Retail,Office Supplies,Pens,157.99,3,0.0,87.72,70.27,2025-01
+ORD-10319,2025-11-02,CUST-0207,Chloe Davis,Consumer,West,AZ,Partner,Office Supplies,Labels,225.87,7,0.3,126.62,99.25,2025-11
+ORD-10235,2025-01-15,CUST-0109,Jordan Moore,Home Office,South,SC,Partner,Technology,Laptop Dock,1250.89,6,0.15,833.74,417.15,2025-01
+ORD-10404,2025-10-02,CUST-0214,Andre Smith,Consumer,South,NC,Online,Technology,Webcam,287.37,1,0.25,203.99,83.38,2025-10
+ORD-10409,2025-06-25,CUST-0206,Ava Smith,Consumer,East,NY,Retail,Technology,Monitor,108.66,1,0.0,70.81,37.85,2025-06
+ORD-10446,2025-04-21,CUST-0146,Zoe Lewis,Consumer,West,CO,Partner,Furniture,Standing Desk,325.75,1,0.1,233.22,92.53,2025-04
+ORD-10463,2025-10-03,CUST-0165,Noah Taylor,Consumer,South,FL,Online,Furniture,Conference Table,1119.78,4,0.15,881.15,238.63,2025-10
+ORD-10601,2025-11-09,CUST-0136,Chloe Martinez,Consumer,East,MD,Online,Technology,Monitor,1364.38,5,0.0,1043.21,321.17,2025-11
+ORD-10470,2025-03-12,CUST-0206,Ava Smith,Consumer,South,SC,Online,Office Supplies,Binder Set,148.14,4,0.05,114.89,33.25,2025-03
+ORD-10081,2025-01-25,CUST-0207,Chloe Davis,Consumer,South,NC,Retail,Technology,Laptop Dock,522.02,2,0.25,306.37,215.65,2025-01
+ORD-10694,2025-11-13,CUST-0209,Carlos Wilson,Consumer,Central,OH,Online,Furniture,Standing Desk,1123.14,5,0.2,731.15,391.99,2025-11
+ORD-10157,2025-09-08,CUST-0028,Lena Clark,Corporate,South,TN,Retail,Technology,Wireless Mouse,772.86,3,0.0,460.74,312.12,2025-09
+ORD-10445,2025-11-14,CUST-0112,Maya Johnson,Consumer,West,AZ,Online,Office Supplies,Pens,306.94,7,0.0,219.41,87.53,2025-11
+ORD-10391,2025-11-19,CUST-0165,Noah Taylor,Corporate,East,NY,Retail,Technology,Headset,947.89,4,0.2,634.56,313.33,2025-11
+ORD-10211,2025-10-05,CUST-0058,Chloe Clark,Corporate,Central,TX,Online,Furniture,Bookcase,169.64,1,0.3,125.87,43.77,2025-10
+ORD-10097,2025-11-26,CUST-0053,Lena Brown,Corporate,East,MD,Partner,Technology,Headset,591.89,3,0.3,417.83,174.06,2025-11
+ORD-10414,2025-12-18,CUST-0030,Diego Johnson,Consumer,Central,TX,Online,Office Supplies,Binder Set,100.5,2,0.05,66.98,33.52,2025-12
+ORD-10396,2025-11-04,CUST-0193,Chloe Johnson,Consumer,East,VA,Partner,Office Supplies,Pens,219.03,7,0.25,138.78,80.25,2025-11
+ORD-10613,2025-03-03,CUST-0173,Diego Thomas,Consumer,West,OR,Online,Technology,Laptop Dock,569.72,3,0.25,403.68,166.04,2025-03
+ORD-10628,2025-01-30,CUST-0081,Ava Smith,Consumer,Central,OH,Partner,Technology,Wireless Mouse,1370.63,7,0.25,946.82,423.81,2025-01
+ORD-10388,2025-03-14,CUST-0183,Andre Lee,Corporate,Central,OH,Online,Furniture,Standing Desk,1423.7,5,0.0,1005.48,418.22,2025-03
+ORD-10146,2025-05-10,CUST-0188,Maya Wilson,Consumer,East,NJ,Online,Office Supplies,Binder Set,205.68,7,0.3,125.66,80.02,2025-05
+ORD-10341,2025-05-05,CUST-0140,Zoe Wilson,Consumer,East,VA,Retail,Office Supplies,Pens,250.51,5,0.0,161.48,89.03,2025-05
+ORD-10506,2025-07-27,CUST-0100,Zoe Moore,Consumer,West,OR,Online,Technology,Monitor,591.91,3,0.2,339.59,252.32,2025-07
+ORD-10394,2025-05-06,CUST-0132,Nia Smith,Consumer,Central,MI,Online,Office Supplies,Binder Set,24.75,1,0.15,17.49,7.26,2025-05
+ORD-10054,2025-08-24,CUST-0103,Noah Garcia,Corporate,South,SC,Online,Furniture,Filing Cabinet,1530.12,7,0.3,1299.24,230.88,2025-08
+ORD-10621,2025-04-08,CUST-0096,Emma Davis,Consumer,West,CO,Online,Furniture,Filing Cabinet,1459.45,7,0.25,1225.73,233.72,2025-04
+ORD-10662,2025-03-18,CUST-0162,Malik Walker,Consumer,Central,IL,Retail,Furniture,Standing Desk,13.5,1,0.1,11.37,2.13,2025-03
+ORD-10811,2025-03-03,CUST-0010,Diego Martinez,Home Office,East,MD,Online,Technology,Headset,1099.75,4,0.0,797.71,302.04,2025-03
+ORD-10322,2025-11-11,CUST-0024,Diego Wilson,Consumer,East,PA,Online,Office Supplies,Labels,102.34,2,0.15,73.46,28.88,2025-11
+ORD-10606,2025-04-06,CUST-0118,Emma Clark,Home Office,East,MD,Online,Office Supplies,Binder Set,85.38,2,0.15,52.66,32.72,2025-04
+ORD-10561,2025-06-09,CUST-0119,Ethan Walker,Corporate,Central,OH,Retail,Office Supplies,Labels,130.32,3,0.05,79.04,51.28,2025-06
+ORD-10061,2025-06-25,CUST-0203,Noah Smith,Consumer,Central,TX,Retail,Furniture,Filing Cabinet,1410.5,6,0.2,1032.16,378.34,2025-06
+ORD-10762,2025-02-08,CUST-0122,Zoe Garcia,Home Office,Central,TX,Online,Office Supplies,Pens,257.75,7,0.1,180.48,77.27,2025-02
+ORD-10084,2025-09-06,CUST-0184,Nia Martinez,Consumer,East,MD,Retail,Office Supplies,Printer Paper,53.27,1,0.2,29.75,23.52,2025-09
+ORD-10728,2025-11-25,CUST-0020,Carlos Clark,Consumer,East,PA,Partner,Furniture,Office Chair,1460.93,5,0.1,1031.96,428.97,2025-11
+ORD-10432,2025-06-15,CUST-0163,Maya Martinez,Home Office,South,GA,Online,Office Supplies,Labels,169.15,5,0.2,124.74,44.41,2025-06
+ORD-10642,2025-04-16,CUST-0202,Diego Moore,Consumer,West,OR,Retail,Technology,Wireless Mouse,1129.4,4,0.0,632.04,497.36,2025-04
+ORD-10626,2025-07-31,CUST-0052,Nia Walker,Consumer,East,MD,Retail,Technology,Headset,1513.56,6,0.05,1123.72,389.84,2025-07
+ORD-10766,2025-10-29,CUST-0172,Malik Martinez,Consumer,West,WA,Online,Technology,Webcam,1025.18,4,0.2,757.64,267.54,2025-10
+ORD-10560,2025-08-26,CUST-0188,Maya Wilson,Consumer,South,FL,Retail,Office Supplies,Binder Set,62.38,2,0.25,40.02,22.36,2025-08
+ORD-10360,2025-04-30,CUST-0165,Noah Taylor,Home Office,Central,MI,Retail,Technology,Headset,458.9,2,0.05,297.68,161.22,2025-04
+ORD-10629,2025-12-28,CUST-0112,Maya Johnson,Consumer,West,AZ,Retail,Furniture,Bookcase,499.7,2,0.05,411.39,88.31,2025-12
+ORD-10398,2025-07-09,CUST-0044,Noah Walker,Consumer,East,NJ,Retail,Technology,Laptop Dock,1162.03,5,0.05,798.63,363.4,2025-07
+ORD-10479,2025-05-07,CUST-0146,Zoe Lewis,Corporate,South,GA,Online,Technology,Webcam,474.7,2,0.2,314.19,160.51,2025-05
+ORD-10652,2025-09-30,CUST-0144,Ava Smith,Consumer,East,MD,Retail,Furniture,Filing Cabinet,988.64,3,0.0,756.32,232.32,2025-09
+ORD-10280,2025-03-17,CUST-0019,Nia Lee,Consumer,South,GA,Retail,Furniture,Bookcase,846.72,2,0.1,649.17,197.55,2025-03
+ORD-10239,2025-11-23,CUST-0068,Lena Garcia,Corporate,West,CA,Online,Technology,Monitor,213.05,1,0.0,130.28,82.77,2025-11
+ORD-10536,2025-01-25,CUST-0034,Lena Wilson,Consumer,South,NC,Partner,Technology,Monitor,291.47,1,0.1,189.63,101.84,2025-01
+ORD-10668,2025-11-22,CUST-0190,Lena Thomas,Consumer,West,AZ,Retail,Office Supplies,Desk Organizer,175.41,5,0.2,100.02,75.39,2025-11
+ORD-10008,2025-09-01,CUST-0154,Maya Johnson,Consumer,Central,OH,Online,Office Supplies,Binder Set,32.05,2,0.0,23.9,8.15,2025-09
+ORD-10707,2025-08-23,CUST-0002,Ethan Johnson,Home Office,Central,MI,Retail,Technology,Wireless Mouse,603.03,2,0.0,416.05,186.98,2025-08
+ORD-10788,2025-04-28,CUST-0151,Marcus Walker,Consumer,East,VA,Retail,Furniture,Conference Table,347.04,1,0.0,295.44,51.6,2025-04
+ORD-10634,2025-11-19,CUST-0084,Sophia Brown,Consumer,West,CA,Online,Technology,Laptop Dock,1210.8,6,0.2,879.45,331.35,2025-11
+ORD-10295,2025-02-02,CUST-0120,Sophia Brown,Consumer,East,PA,Online,Furniture,Conference Table,242.29,1,0.0,172.85,69.44,2025-02
+ORD-10082,2025-08-26,CUST-0097,Noah Moore,Consumer,Central,IL,Partner,Office Supplies,Labels,158.71,5,0.25,111.4,47.31,2025-08
+ORD-10723,2025-01-03,CUST-0186,Ava Garcia,Consumer,South,FL,Online,Technology,Wireless Mouse,1361.17,7,0.3,764.95,596.22,2025-01
+ORD-10542,2025-07-20,CUST-0013,Ava Brown,Consumer,South,NC,Partner,Office Supplies,Pens,61.82,2,0.15,42.66,19.16,2025-07
+ORD-10675,2025-08-01,CUST-0137,Emma Taylor,Home Office,West,OR,Online,Technology,Webcam,545.32,3,0.3,357.02,188.3,2025-08
+ORD-10540,2025-11-29,CUST-0005,Diego Brown,Consumer,East,MD,Online,Furniture,Filing Cabinet,1319.89,5,0.05,1049.03,270.86,2025-11
+ORD-10368,2025-03-12,CUST-0070,Maya Lee,Consumer,Central,MI,Online,Furniture,Bookcase,646.68,2,0.05,529.12,117.56,2025-03
+ORD-10134,2025-09-06,CUST-0124,Zoe Martinez,Consumer,South,NC,Online,Technology,Headset,1618.33,7,0.05,1094.55,523.78,2025-09
+ORD-10681,2025-03-25,CUST-0160,Emma Thomas,Corporate,South,TN,Online,Office Supplies,Binder Set,274.57,6,0.0,191.99,82.58,2025-03
+ORD-10009,2025-04-09,CUST-0045,Noah Moore,Corporate,West,CA,Online,Office Supplies,Binder Set,184.9,5,0.2,144.06,40.84,2025-04
+ORD-10291,2025-08-29,CUST-0178,Noah Thomas,Consumer,West,AZ,Retail,Office Supplies,Labels,327.97,7,0.0,180.84,147.13,2025-08
+ORD-10094,2025-03-21,CUST-0086,Jordan Davis,Consumer,South,SC,Online,Furniture,Standing Desk,237.98,1,0.0,159.01,78.97,2025-03
+ORD-10473,2025-01-23,CUST-0096,Emma Davis,Consumer,South,FL,Partner,Office Supplies,Binder Set,159.82,4,0.2,119.46,40.36,2025-01
+ORD-10558,2025-04-15,CUST-0193,Chloe Johnson,Consumer,West,WA,Partner,Furniture,Standing Desk,1175.5,4,0.2,804.83,370.67,2025-04
+ORD-10765,2025-07-07,CUST-0080,Carlos Walker,Consumer,South,NC,Online,Furniture,Conference Table,998.56,3,0.0,672.71,325.85,2025-07
+ORD-10527,2025-01-13,CUST-0204,Zoe Martinez,Corporate,South,SC,Partner,Office Supplies,Labels,145.33,4,0.1,87.78,57.55,2025-01
+ORD-10659,2025-02-15,CUST-0016,Carlos Thomas,Consumer,East,MD,Online,Furniture,Filing Cabinet,787.77,3,0.0,569.84,217.93,2025-02
+ORD-10485,2025-02-09,CUST-0102,Marcus Taylor,Corporate,South,TN,Online,Furniture,Bookcase,385.95,1,0.05,253.63,132.32,2025-02
+ORD-10480,2025-11-11,CUST-0025,Jordan Brown,Home Office,South,SC,Retail,Furniture,Office Chair,1442.71,5,0.1,1018.63,424.08,2025-11
+ORD-10597,2025-12-22,CUST-0128,Marcus Thomas,Consumer,Central,MO,Retail,Technology,Webcam,400.22,2,0.3,236.18,164.04,2025-12
+ORD-10492,2025-10-02,CUST-0191,Diego Johnson,Home Office,Central,TX,Online,Furniture,Bookcase,195.35,1,0.0,145.49,49.86,2025-10
+ORD-10503,2025-06-13,CUST-0212,Maya Lewis,Consumer,Central,IL,Retail,Technology,Laptop Dock,435.76,2,0.1,303.12,132.64,2025-06
+ORD-10359,2025-09-25,CUST-0021,Noah Clark,Consumer,East,MD,Online,Office Supplies,Pens,121.4,3,0.0,74.45,46.95,2025-09
+ORD-10357,2025-02-01,CUST-0034,Lena Wilson,Corporate,South,FL,Online,Furniture,Office Chair,607.87,3,0.3,518.0,89.87,2025-02
+ORD-10813,2025-03-28,CUST-0151,Marcus Walker,Consumer,South,TN,Retail,Furniture,Filing Cabinet,479.45,2,0.1,420.97,58.48,2025-03
+ORD-10133,2025-07-08,CUST-0020,Carlos Clark,Corporate,Central,TX,Retail,Technology,Webcam,1038.19,4,0.1,603.49,434.7,2025-07
